@@ -1,0 +1,366 @@
+{
+    "_type": "News",
+    "webSearchUrl": "https:\/\/www.bing.com\/news\/search?q=top+stories&form=TNSA02",
+    "value": [
+        {
+            "_type": "NewsArticle",
+            "name": "Man who wore Singapore flag as cape and shouted that he is God in coffeeshop gets two weeks’ jail",
+            "url": "https:\/\/www.msn.com\/en-sg\/news\/singapore\/man-who-wore-singapore-flag-as-cape-and-shouted-that-he-is-god-in-coffeeshop-gets-two-weeks-jail\/ar-AA1h5F2t",
+            "image": {
+                "_type": "ImageObject",
+                "thumbnail": {
+                    "_type": "ImageObject",
+                    "contentUrl": "https:\/\/www.bing.com\/th?id=ORMS.555e5a37dca53c355d9e37a0308ba2d4&pid=Wdp",
+                    "width": 2560,
+                    "height": 1440
+                },
+                "isLicensed": true
+            },
+            "description": "SINGAPORE: A 36-year-old man has been sentenced to two weeks’ imprisonment after pleading guilty to a charge of public nuisance. This marks the second time within a short span that the man, Roy Ravi",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Independent SG",
+                    "image": {
+                        "_type": "ImageObject",
+                        "thumbnail": {
+                            "_type": "ImageObject",
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.SaoJThlSokgjPRVnKYxNcA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2023-09-22T09:00:03.0000000Z"
+        },
+        {
+            "_type": "NewsArticle",
+            "name": "A veteran fried-chicken cook died after fainting and falling face-first into his wok of hot oil",
+            "url": "https:\/\/www.msn.com\/en-sg\/news\/world\/a-veteran-fried-chicken-cook-died-after-fainting-and-falling-face-first-into-his-wok-of-hot-oil\/ar-AA1h5Msl",
+            "image": {
+                "_type": "ImageObject",
+                "thumbnail": {
+                    "_type": "ImageObject",
+                    "contentUrl": "https:\/\/www.bing.com\/th?id=ORMS.255ddae0c8c7f4176ff743fc324aa195&pid=Wdp",
+                    "width": 3966,
+                    "height": 2975
+                },
+                "isLicensed": true
+            },
+            "description": "A Malaysian fried-chicken cook died when his face fell into a wok of hot oil, per local media.Liu Youcai, 58, was cooking a chicken dish when he fainted, per China Press.His assistant and several",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Insider Asia",
+                    "image": {
+                        "_type": "ImageObject",
+                        "thumbnail": {
+                            "_type": "ImageObject",
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.ZCa6h3S5q71OiwvhRi3Ong&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2023-09-22T08:51:51.0000000Z"
+        },
+        {
+            "_type": "NewsArticle",
+            "name": "Asian Games 2023: Hong Kong boss Andersen has mixed feelings over making knockout stage without kicking ball",
+            "url": "https:\/\/www.msn.com\/en-sg\/sports\/news\/asian-games-2023-hong-kong-boss-andersen-has-mixed-feelings-over-making-knockout-stage-without-kicking-a-ball\/ar-AA1h4EhU",
+            "image": {
+                "_type": "ImageObject",
+                "thumbnail": {
+                    "_type": "ImageObject",
+                    "contentUrl": "https:\/\/www.bing.com\/th?id=ORMS.5186181863fdc6110425bc0a4bbd936a&pid=Wdp",
+                    "width": 2000,
+                    "height": 1333
+                },
+                "isLicensed": true
+            },
+            "description": " Afghanistan and Syria's decision to withdraw means Hong Kong and Uzbekistan are automatically into the round of 16 But with Uzbekistan tipped to win a medal, and Japan, Qatar or Palestine up next,",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "South China Morning Post",
+                    "image": {
+                        "_type": "ImageObject",
+                        "thumbnail": {
+                            "_type": "ImageObject",
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.U1dT5-aAjlpGBBrm2ReeYg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2023-09-22T00:00:24.0000000Z"
+        },
+        {
+            "_type": "NewsArticle",
+            "name": "Gov’t to inject $2.4b raised from first sovereign green bond to rail network expansion",
+            "url": "https:\/\/www.msn.com\/en-sg\/news\/other\/gov-t-to-inject-24b-raised-from-first-sovereign-green-bond-to-rail-network-expansion\/ar-AA1h50To",
+            "image": {
+                "_type": "ImageObject",
+                "thumbnail": {
+                    "_type": "ImageObject",
+                    "contentUrl": "https:\/\/www.bing.com\/th?id=ORMS.aec659e8636ee6bfc92e8cc6e3985c95&pid=Wdp",
+                    "width": 800,
+                    "height": 412
+                },
+                "isLicensed": true
+            },
+            "description": "                                    The government has already allocated 30% of the funds raised. The government has allocated $700m or 30% of the $2.4b raised from Singapore’s first sovereign green",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Singapore Business Review",
+                    "image": {
+                        "_type": "ImageObject",
+                        "thumbnail": {
+                            "_type": "ImageObject",
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.MuTw9N1mK8v-1J4O4n4Kog&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2023-09-22T03:04:31.0000000Z"
+        },
+        {
+            "_type": "NewsArticle",
+            "name": "ONE Championship: Superlek says he will consider bantamweight move after 5lbs miss for Rodtang fight",
+            "url": "https:\/\/www.msn.com\/en-sg\/sports\/news\/one-championship-superlek-says-he-will-consider-bantamweight-move-after-5lbs-miss-for-rodtang-fight\/ar-AA1h3jWZ",
+            "image": {
+                "_type": "ImageObject",
+                "thumbnail": {
+                    "_type": "ImageObject",
+                    "contentUrl": "https:\/\/www.bing.com\/th?id=ORMS.4e63713f0c14ed81e07138aeb8501f94&pid=Wdp",
+                    "width": 2000,
+                    "height": 1333
+                },
+                "isLicensed": true
+            },
+            "description": " Rodtang agrees 140lbs-catchweight fight, but Muay Thai title will not be on the line in ONE Friday Fights 34 main event 'I can still guarantee it will be a fun, entertaining, exciting fight. I will",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "South China Morning Post",
+                    "image": {
+                        "_type": "ImageObject",
+                        "thumbnail": {
+                            "_type": "ImageObject",
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.U1dT5-aAjlpGBBrm2ReeYg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2023-09-21T12:38:34.0000000Z"
+        },
+        {
+            "_type": "NewsArticle",
+            "name": "EC World REIT extends trading suspension to resolve ‘uncertainties’",
+            "url": "https:\/\/www.msn.com\/en-sg\/news\/other\/ec-world-reit-extends-trading-suspension-to-resolve-uncertainties\/ar-AA1h4YOj",
+            "image": {
+                "_type": "ImageObject",
+                "thumbnail": {
+                    "_type": "ImageObject",
+                    "contentUrl": "https:\/\/www.bing.com\/th?id=ORMS.f0ede8230fc4ca5ac24a7ad9b59dd4d9&pid=Wdp",
+                    "width": 800,
+                    "height": 597
+                },
+                "isLicensed": true
+            },
+            "description": "                                    The company said its liabilities have exceeded its assets by $133.2m. Trading of EC World REIT’s units remains suspended as the company needs more time to resolve",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Singapore Business Review",
+                    "image": {
+                        "_type": "ImageObject",
+                        "thumbnail": {
+                            "_type": "ImageObject",
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.MuTw9N1mK8v-1J4O4n4Kog&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2023-09-22T03:04:23.0000000Z"
+        },
+        {
+            "_type": "NewsArticle",
+            "name": "Trans-Cab taxi driver caught watching TV show during 30-minute ride",
+            "url": "https:\/\/www.msn.com\/en-sg\/news\/singapore\/trans-cab-taxi-driver-caught-watching-tv-show-during-30-minute-ride\/ar-AA1h5yV6",
+            "image": {
+                "_type": "ImageObject",
+                "thumbnail": {
+                    "_type": "ImageObject",
+                    "contentUrl": "https:\/\/www.bing.com\/th?id=ORMS.016e9dcf3d4a06dbd2619e993c85f72a&pid=Wdp",
+                    "width": 1200,
+                    "height": 765
+                },
+                "isLicensed": true
+            },
+            "description": "SINGAPORE: In a shocking incident that has raised concerns about passenger safety, a Trans-Cab taxi driver was caught watching a Taiwanese variety show on his phone while driving a passenger to their",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Independent SG",
+                    "image": {
+                        "_type": "ImageObject",
+                        "thumbnail": {
+                            "_type": "ImageObject",
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.SaoJThlSokgjPRVnKYxNcA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2023-09-22T07:40:23.0000000Z"
+        },
+        {
+            "_type": "NewsArticle",
+            "name": "MAS unveils list of too-big-to-fail insurers, imposes higher capital requirements",
+            "url": "https:\/\/www.msn.com\/en-sg\/news\/other\/mas-unveils-list-of-too-big-to-fail-insurers-imposes-higher-capital-requirements\/ar-AA1h52aG",
+            "image": {
+                "_type": "ImageObject",
+                "thumbnail": {
+                    "_type": "ImageObject",
+                    "contentUrl": "https:\/\/www.bing.com\/th?id=ORMS.4f1bdfd91f83c858f9ea2db1ce6691e6&pid=Wdp",
+                    "width": 800,
+                    "height": 480
+                },
+                "isLicensed": true
+            },
+            "description": "                                    The four initial insurers are to face a 25% capital add-on, boosting higher and lower supervisory intervention levels, CET1 and  Tier 1. The Monetary Authority of",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Singapore Business Review",
+                    "image": {
+                        "_type": "ImageObject",
+                        "thumbnail": {
+                            "_type": "ImageObject",
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.MuTw9N1mK8v-1J4O4n4Kog&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2023-09-22T01:28:47.0000000Z"
+        },
+        {
+            "_type": "NewsArticle",
+            "name": "YouTuber Ghib Ojisan stays at MBS $1750\/night suite, gets sneak peek at invite-only VIP suite",
+            "url": "https:\/\/www.msn.com\/en-sg\/entertainment\/news\/youtuber-ghib-ojisan-stays-at-mbs-1750night-suite-gets-sneak-peek-at-invite-only-vip-suite\/ar-AA1h5D1p",
+            "image": {
+                "_type": "ImageObject",
+                "thumbnail": {
+                    "_type": "ImageObject",
+                    "contentUrl": "https:\/\/www.bing.com\/th?id=ORMS.9fd1b0dce2e0b458c6be0846c234453c&pid=Wdp",
+                    "width": 600,
+                    "height": 280
+                },
+                "isLicensed": true
+            },
+            "description": "SINGAPORE: Popular YouTuber Ghib Ojisan was already blown away by Marina Bay Sands’ Premier Suite, where prices begin at S$1,750 per night, but he was wowed even more when he had a sneak peek at a",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Independent SG",
+                    "image": {
+                        "_type": "ImageObject",
+                        "thumbnail": {
+                            "_type": "ImageObject",
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.SaoJThlSokgjPRVnKYxNcA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2023-09-22T07:00:42.0000000Z"
+        },
+        {
+            "_type": "NewsArticle",
+            "name": "‘Hearts made of bubbles’: critics who claim Apple’s website showing long-braid customer service assistant ‘insult’ to Chinese people ridiculed online",
+            "url": "https:\/\/www.msn.com\/en-sg\/lifestyle\/other\/hearts-made-of-bubbles-critics-who-claim-apple-s-website-showing-long-braid-customer-service-assistant-insult-to-chinese-people-ridiculed-online\/ar-AA1h5egl",
+            "image": {
+                "_type": "ImageObject",
+                "thumbnail": {
+                    "_type": "ImageObject",
+                    "contentUrl": "https:\/\/www.bing.com\/th?id=ORMS.e78f68e2c6fa7acad481045ab8de2b30&pid=Wdp",
+                    "width": 2000,
+                    "height": 1357
+                },
+                "isLicensed": true
+            },
+            "description": " Image is featured on various Apple regional websites to promote company's employment diversity and not targeted at Chinese customers, according to report Those who think photo is an insult are the",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "South China Morning Post",
+                    "image": {
+                        "_type": "ImageObject",
+                        "thumbnail": {
+                            "_type": "ImageObject",
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.U1dT5-aAjlpGBBrm2ReeYg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2023-09-22T06:00:16.0000000Z"
+        },
+        {
+            "_type": "NewsArticle",
+            "name": "Yet another man duped in rental scam as rental prices continue to soar",
+            "url": "https:\/\/www.msn.com\/en-sg\/news\/singapore\/yet-another-man-duped-in-rental-scam-as-rental-prices-continue-to-soar\/ar-AA1h5iBE",
+            "image": {
+                "_type": "ImageObject",
+                "thumbnail": {
+                    "_type": "ImageObject",
+                    "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.M0LrRjpCTWArvpDFzUTdWC&pid=News",
+                    "width": 1035,
+                    "height": 667
+                },
+                "isLicensed": true
+            },
+            "description": "SINGAPORE: A 25-year-old Malaysian man working in Singapore, recently found himself the victim of a rental scam after desperately searching for affordable housing due to increasing rent prices in the",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Independent SG",
+                    "image": {
+                        "_type": "ImageObject",
+                        "thumbnail": {
+                            "_type": "ImageObject",
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.SaoJThlSokgjPRVnKYxNcA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2023-09-22T04:43:50.0000000Z"
+        },
+        {
+            "_type": "NewsArticle",
+            "name": "51-year-old woman loses $76K she saved to buy HDB flat in mooncake scam",
+            "url": "https:\/\/www.msn.com\/en-sg\/news\/singapore\/51-year-old-woman-loses-76k-she-saved-to-buy-hdb-flat-in-mooncake-scam\/ar-AA1h5iBG",
+            "image": {
+                "_type": "ImageObject",
+                "thumbnail": {
+                    "_type": "ImageObject",
+                    "contentUrl": "https:\/\/www.bing.com\/th?id=ORMS.97d3ccedee62b3ef15b6ebe58fc2e96b&pid=Wdp",
+                    "width": 1000,
+                    "height": 525
+                },
+                "isLicensed": true
+            },
+            "description": "SINGAPORE: A 51-year-old Singaporean woman, surnamed Li, is reeling from a devastating financial loss after falling victim to a scam involving a fraudulent mooncake advertisement on Facebook. Mdm Li",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Independent SG",
+                    "image": {
+                        "_type": "ImageObject",
+                        "thumbnail": {
+                            "_type": "ImageObject",
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.SaoJThlSokgjPRVnKYxNcA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2023-09-22T04:00:03.0000000Z"
+        }
+    ]
+}

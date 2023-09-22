@@ -1,15 +1,17 @@
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { NewsPage } from "@/pages";
+import AppProvider from "./context/AppProvider";
 
 function App() {
-  
   return (
-    <div className="flex justify-center">
-      <div className="w-1/2 mt-10 border border-gray-300">
-        <div>
-          <input className="border border-gray-600 p-1"/>
-        </div>
-      </div>
-    </div>
-  )
+    <AppProvider>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<NewsPage />} />
+        </Routes>
+      </BrowserRouter>
+    </AppProvider>
+  );
 }
 
-export default App
+export default App;
