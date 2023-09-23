@@ -17,4 +17,5 @@ export interface IRapidHeaders {
 export type AppContextType = {
   newsArticles: INewsArticle[];
   updatedArticles: (list: IBingNews[] | IGoogleNews[], type: string) => void;
+  toggleDarkMode: () => void;
 };

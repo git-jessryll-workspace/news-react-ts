@@ -30,7 +30,7 @@ const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
 
   const toggleDarkMode = () => {
     setTheme(!theme);
-  }
+  };
   return (
     <AppContext.Provider
       value={{
@@ -48,6 +48,7 @@ const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
           ),
         ],
         updatedArticles,
+        toggleDarkMode,
       }}
     >
       {children}
