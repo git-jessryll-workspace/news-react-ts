@@ -1,0 +1,1879 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "title": "Philippines issues health warning as capital hit by smog, volcanic gas",
+            "snippet": "A small but restive volcano near the Philippine capital Manila spewed above average sulfur dioxide and volcanic smog on Friday, prompting authorities to ...",
+            "publisher": "Reuters",
+            "timestamp": "1695391380000",
+            "newsUrl": "https://www.reuters.com/world/asia-pacific/philippine-issues-health-warning-volcano-brings-smog-capital-nearby-provinces-2023-09-22/",
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Millions affected by dense smog in Manila as schools, workplaces close",
+                    "snippet": "Mayors from 16 cities and one town in metropolitan Manila sent millions of students home due to the smog, some government offices suspended work.",
+                    "publisher": "South China Morning Post",
+                    "timestamp": "1695372278000",
+                    "newsUrl": "https://www.scmp.com/news/asia/southeast-asia/article/3235457/severe-dense-smog-forces-schools-workplaces-close-philippine-capital-affecting-millions",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/ehmI6q4i5GnTbAiEcMHKPcI2IXekts5FVxNxVSuoUMrrztUjj4DlE2JBfb94dlfsZjcigTaT_IcM3wQAUQu9trd3T0Liq_lM6tgqdg126P_Z-bTvd0tba_fUymbWWxkPFZPQDP_g7hyNGg07RDLVW0t-jsx8ragJkKf4nFiwt95dTjtoZyOLa0cc29y4bCP59r9wiL8AVN1wSKI9vusI5wEnuJSaPWq1bQ598I33Ce40rILLgVLTzzebW3atZE6aqcM7Nr8",
+                        "original": "https://cdn.i-scmp.com/sites/default/files/styles/700x400/public/d8/images/canvas/2023/09/22/b813ff3a-48b7-4e3e-9cd2-ce4562c217e7_e81c78a4.jpg?itok=rPoa8D4B&v=1695372277"
+                    }
+                },
+                {
+                    "title": "Smog cloaks Metro Manila",
+                    "snippet": "SMOG — a gray cloud of atmospheric pollutants from vehicle emissions — blanketed most of Metro Manila and neighboring communities on Friday, forcing the ...",
+                    "publisher": "The Manila Times",
+                    "timestamp": "1695397734000",
+                    "newsUrl": "https://www.manilatimes.net/2023/09/23/news/smog-cloaks-metro-manila/1911335",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/-F7KDrT8rEKATisqTAFH_Ds3bwaImAzyuYGQdAtKOHjBkvkdVfbxbt3guVF1J11JlgokE-6wWwrShohCkWhIOiarq51qUgCqxi32QLhyz33kOwRoA9guSvYpfpLKh-VZFhVXJIsn_w",
+                        "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/22/244602.jpg"
+                    }
+                },
+                {
+                    "title": "Smog in Metro Manila not from Taal Volcano – Phivolcs, DENR",
+                    "snippet": "No, the smog you're seeing in Metro Manila is not because of Taal, according to the Philippine Institute of Volcanology (Phivolcs) and the Department of ...",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695355200000",
+                    "newsUrl": "https://newsinfo.inquirer.net/1835387/smog-in-metro-manila-not-from-taal-phivolcs-denr",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/dhuEOHWkbxZFs6dYz3B5RAVXF4D2qqEDhAsZPXGylcCGcwVMMaz0qQVayclqfvUXkXwSy31ys2OpQssQJ2woptluQb11D1jzQTvO8xAhc7QE4oSYpv322sLKXP2A1cNdoQ",
+                        "original": "https://newsinfo.inquirer.net/files/2023/09/taal-smog-metro-manila.png"
+                    }
+                },
+                {
+                    "title": "LIVE UPDATES: Taal Volcano",
+                    "snippet": "Acid rain possible due to Taal vog — DOST September 22, 2023 - 1:31PM Acid rain can occur following the volcanic smog or vog from Taal volcano, Department.",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695358319000",
+                    "newsUrl": "https://newsinfo.inquirer.net/1835408/live-updates-taal-volcano",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/-KD2mGzwSUvaUEK08VB4ke4tlEocLa75e8S60PSt49bU1vpeovBT51YkBxyuiSS8AZs85-7JCX8DTKnp42mddB6-PhG_MOak2qUWR1fl3_6gYB1AGAbzyJWdY1dGMXGSgsXFe_GbliBdPn8aD2tmQ2zOSJlrwD-y-pFyTl0Jy_kHRPLewBqFB4b3LQ",
+                        "original": "https://newsinfo.inquirer.net/files/2023/09/students-in-batangas-fall-ill-from-taal-volcanic-smog-22sept2023.png"
+                    }
+                },
+                {
+                    "title": "NCR, Cavite, Batangas, Laguna LGUs suspend classes due to Taal's volcanic smog",
+                    "snippet": "Several local government units in the National Capital Region (NCR) and in the provinces of Cavite, Laguna, and Batangas have suspended classes in all ...",
+                    "publisher": "Manila Bulletin",
+                    "timestamp": "1695345736000",
+                    "newsUrl": "https://mb.com.ph/2023/9/21/schools-in-metro-manila-nearby-provinces-suspend-classes-due-to-taal-s-volcanic-smog",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/i6lZlTbJDhV4CELvF1GfU_6fNJj7yDSqbIei5F7VD8TdqL6FRmQlAbs6qP61wKPnemDCk2N1UokM7QMyMtlv15W2LiLxyxiDjoflpovWcerZwFGq2X-lIkRe9RfOE2E",
+                        "original": "https://mb.com.ph/media/IMG_3311_2c9e42fddb/IMG_3311_2c9e42fddb.jpeg"
+                    }
+                },
+                {
+                    "title": "HEADLINES: Smog cloaks Metro Manila | September 23,2023",
+                    "snippet": "Good day. Here are the stories for The Manila Times for Saturday, September 23, 2023.",
+                    "publisher": "The Manila Times",
+                    "timestamp": "1695403620000",
+                    "newsUrl": "https://www.manilatimes.net/2023/09/23/news/headlines-smog-cloaks-metro-manila-september-232023/1911401",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/hQYgcp9nDPSOYzRoDfp9VpJGgD2AlJe6aGZjoLDOxKg7AnyD_3o_NRzwzN-Pwi3oVma98ljAziBUXHBgL_SELM51zn9LC0z51YDJyYc5vuhHynZbLm-kZvIQ-bseN_NqXoAL-RKDgA",
+                        "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/23/244642.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Bayani Fernando dies in house accident",
+            "snippet": "Former Marikina congressman and mayor Bayani Fernando died yesterday in an accident at his house. He was 77.?",
+            "publisher": "Philstar.com",
+            "timestamp": "1695398400000",
+            "newsUrl": "https://www.philstar.com/headlines/2023/09/23/2298393/bayani-fernando-dies-house-accident",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/7kwGXUSPtMDh3D1TuCwm7rvR3YdUpDgToWOng2mFKHJHT9_jvlT1iRWIKIR-PJWOG2yUsK5SsJ2cEDlIPXhK6cnFiQaKC88LfFeM0VErD2ev_iOjLXHsIVr6yRRxP-Qt23mpZoOWH6dV7b34JOJJLw",
+                "original": "https://media.philstar.com/photos/2023/09/22/mis_2023-09-22_23-21-09821_thumbnail.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Ex-Marikina lawmaker Bayani Fernando dies",
+                    "snippet": "Metro Manila (CNN Philippines, September 22) — Former Marikina Representative Bayani Fernando died on Friday at the age of 77, his widow announced.",
+                    "publisher": "CNN Philippines",
+                    "timestamp": "1695371137000",
+                    "newsUrl": "http://www.cnnphilippines.com/news/2023/9/22/bayani-fernando-dies.html",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/24XP9aAgbao2OXtRTtwKs30OMwURmDn-47KSzAezUqmDM7tq4dbI8J3eZskbb9AWbV8XkCj3Z_a9W2UdAmp_tMaCKQ90MIrLuKL9joqbSebtUS2CHB5SfNu3JHB0ATuaGJRlTwewT-eUJNmUYP2-lzcU9olRXxhV_EoEMIw8WGjQvrhghIwWb51dNTAwHF-m6pAxdUeQqHt5Rt9OWh-5XthLGxfgppY_2zVckFrw5w",
+                        "original": "http://www.cnnphilippines.com/.imaging/default/dam/cnn/2023/9/22/Bayani-Fernando-dies_CNNPH.jpg/jcr:content.jpg?width=750&height=450&crop:1:1,smart"
+                    }
+                },
+                {
+                    "title": "Bayani Fernando passes away",
+                    "snippet": "Former Marikina lawmaker and Metropolitan Manila Development Authority (MMDA) chief Bayani Fernando passed away on Friday. He was 77.",
+                    "publisher": "ABS-CBN News",
+                    "timestamp": "1695367200000",
+                    "newsUrl": "https://news.abs-cbn.com/news/09/22/23/bayani-fernando-passes-away",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/yMUQSATriklSIDmTruDm0rVsVxp2o6SWlgkoIswg4b9xKMd02eRp_6wPeK9QUm9EgRQ7ysFZ72ez_oqM8FSdH122IPvycpt9XubuuVblhgc0jXqXajc950L34BYBmI5Q4-wxInU0ElGtAeMCfNELFM-qHMi40r980lhkr5b60VNJBEeFtlkxT98",
+                        "original": "https://sa.kapamilya.com/absnews/abscbnnews/media/2023/news/09/22/20200212-house-minority-presscon-md-6715.jpg"
+                    }
+                },
+                {
+                    "title": "From Marikina model to 'Metro Gwapo': Bayani Fernando, 77",
+                    "snippet": "Former Marikina Mayor and Rep. Bayani Fernando, a mechanical engineer who entered politics and was credited with his city's emergence as one of the most ...",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695418800000",
+                    "newsUrl": "https://newsinfo.inquirer.net/1835662/from-marikina-model-to-metro-gwapo-bayani-fernando-77",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/W91nPY3FklGqQAt6PN6gDNUpH-QItOhTQhWTqElzffEG_4HaTpav4t7HsfNoWeL-yY2fdbtThJsasrIqtBVCihWGsTyfcF_puT62EzFjuwBGuAU2ObukRlHifvclHsK6ag",
+                        "original": "https://newsinfo.inquirer.net/files/2023/09/539349-e1695401189470.jpeg"
+                    }
+                },
+                {
+                    "title": "Ex-MMDA chief Fernando dies",
+                    "snippet": "(UPDATE) FORMER Marikina City mayor and Metro Manila Development Authority (MMDA) chairman Bayani Fernando died after falling from the roof of his house on ...",
+                    "publisher": "The Manila Times",
+                    "timestamp": "1695396825000",
+                    "newsUrl": "https://www.manilatimes.net/2023/09/23/news/national/ex-mmda-chief-fernando-dies/1911280",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/hPbVFZmseDjjUzdibhBIkiq8lOO2LnXMwzgnywu4ju6xawD6WQSdvT9qrVOQ4oZwlsrqVQ6d4sFwxq20loVB4gLjAj6R0sS5WbmtZotZzDG9AUgl9hhNodH1_gOowiZTTeLN8yhLqw",
+                        "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/22/244296.jpg"
+                    }
+                },
+                {
+                    "title": "Bayani Fernando, Marikina mayor who engineered city's transformation, passes away at 77",
+                    "snippet": "Bayani Fernando, long-time public servant of Marikina City and former chairperson of the Metropolitan Manila Development Authority, died on Friday.",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695367020000",
+                    "newsUrl": "https://www.philstar.com/headlines/2023/09/22/2298236/bayani-fernando-marikina-mayor-who-engineered-citys-transformation-passes-away-77",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/hlT8QNR3dybwN2RD6zOwrsF_fSJAMEfINQO88zjrhpdqr0oSzcIaenKgL4kgdj_WIBijE5c2Y0Qb-kXPC-T9AvmlkZstwH1FO5suOsoLTrynbmG40hvYHvwbkmUgh7-xoL7K8i2JfwJHRIYlikQUWMvaPOjoVemay06MMiokddMfLWH_CxmH",
+                        "original": "https://media.philstar.com/photos/2023/09/22/bayani-fernando-mmda-chief_2023-09-22_15-19-30102_thumbnail.jpg"
+                    }
+                },
+                {
+                    "title": "'Visionary leader, dedicated servant': House solons honor Bayani Fernando",
+                    "snippet": "MANILA, Philippines — Former Marikina Mayor Bayani Fernando was a dedicated public servant and a leader with a vision, said Speaker Ferdinand Martin.",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695377580000",
+                    "newsUrl": "https://newsinfo.inquirer.net/1835549/visionary-leader-dedicated-servant-house-solons-honor-bayani-fernando",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/tUe_Oiw5eVtzgT9Tbb7pU9hclziy8DV2iwjXlPJB6eY2bINFol7AACqNgNW4yTt2vCd9kOhTiI_Iyq76G_drmy9U9b1r7l6L5DP_PwOE43K7akBiMvJxKBVdTmg8y--X",
+                        "original": "https://newsinfo.inquirer.net/files/2015/10/bayani-e1445271462377.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "House cuts own 2024 budget by P 11 billion",
+            "snippet": "The House of Representatives approved on Friday its proposed allocation for both houses of Congress, putting on the table a cut of P10.75 billion in its own ...",
+            "publisher": "Inquirer.net",
+            "timestamp": "1695417300000",
+            "newsUrl": "https://newsinfo.inquirer.net/1835669/house-cuts-own-2024-budget-by-p-11b",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/JOw7GDzsqMBrfQlkuYsIp3x4BBXh5h81HJ9S0epcoy41nIqxlOBx2B6y18flthVWGrh8eCHSHfu0A4oRfBfCpiM6q6QJKaiCpQ4eX5zgmVS87gO59xEFH3YXnw",
+                "original": "https://newsinfo.inquirer.net/files/2023/09/Front-Page539081.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "House OKs lower 2024 budget for itself",
+                    "snippet": "The House of Representatives approved a budget for itself in 2024 that is about P11 billion less than its current allocation.",
+                    "publisher": "ABS-CBN News",
+                    "timestamp": "1695350580000",
+                    "newsUrl": "https://news.abs-cbn.com/news/09/22/23/house-oks-lower-2024-budget-for-itself",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/WKglzk0eB9uYArlOwk_SIX583rHIRsNjROUVnuv2CBFFb7m_ebxOuCWQF6VvyHpANCgkvhcDEOWwLW1I_J8J837pHXBv6Gq9NCoYGOxA9J458cKiMBcfL28NEardjCkQIPWVaKYmbr4uf6SG_RxUU4wFp5DDVcH2Rx0eOspmOqG3TxbWVkMcDieTrtnD6X24uWEFBw5mJ8LoUjq8",
+                        "original": "https://sa.kapamilya.com/absnews/abscbnnews/media/2023/tvpatrol/09/22/20200709-house-of-representatives-cleaning-jc-8540-(1).jpg"
+                    }
+                },
+                {
+                    "title": "‘Budget bill certification ensures timely passage’",
+                    "snippet": "The certification by President Marcos of the General Appropriations Bill of 2024 (House Bill 8980) as “urgent” will ensure its passage on time as the House ...",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695312000000",
+                    "newsUrl": "https://www.philstar.com/headlines/2023/09/22/2298038/budget-bill-certification-ensures-timely-passage",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/-dQb5SpT7hX8PTj4Ocsv7xGW_xzT7um-gvMlhc5KaVOMyRUYQiGnnzCgdsu-oNiHtR5tEF0xVlo1kdv9DXVFqf-8eROwKu1bucABk24Zc3XxYXLWKfPTJPZe_h5IzimlRZ1fBXgE-Zd4E0i-kFvPESTkSqkwImtH7M9fZ0gZQS08-sqLuuCo1Q",
+                        "original": "https://media.philstar.com/photos/2023/09/21/m071720232023-08-1222-09-19_2023-09-21_21-25-10457_thumbnail.jpg"
+                    }
+                },
+                {
+                    "title": "National historical body needs bigger budget to fight disinformation about martial law",
+                    "snippet": "The National Historical Commission of the Philippines (NHCP) will need a bigger 2024 budget to fight the growing disinformation about martial law in both ...",
+                    "publisher": "CNN Philippines",
+                    "timestamp": "1695284309000",
+                    "newsUrl": "http://www.cnnphilippines.com/news/2023/9/21/nhcp-bigger-budget-fight-disinformation-martial-law.html",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/FQLa-OO5Ru4bzvc9NV7gOPzmJ13raAtCz898lggfWcdCRURvGO_oWyJ4dDk4Pnwot_zCRsQpxhcfn8iBWwrYzOzS1vnvU8VzBaX6ET_POz4oNZBtMOKqOK-XBrKigSKYBRorxI985ePRDZyAVIzChEsPhGrMkd4vJ94lp1pURLwJtnxM_tvxD_lT_aghYyZcFJv4naStps4JvF9dHYiIvsFv9JX-4w",
+                        "original": "http://www.cnnphilippines.com/.imaging/default/dam/cnn/2017/1/19/Martial_Law_CNNPH.png/jcr:content.png?width=750&height=450&crop:1:1,smart"
+                    }
+                },
+                {
+                    "title": "House to pass 2024 budget bill next week -- Romualdez",
+                    "snippet": "THE House of Representatives will approve the proposed P5.768-trillion 2024 national budget on third and final reading before Congress goes on break next ...",
+                    "publisher": "The Manila Times",
+                    "timestamp": "1695272820000",
+                    "newsUrl": "https://www.manilatimes.net/2023/09/21/news/house-to-pass-2024-budget-bill-next-week-romualdez/1911125",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/44Q_l0bNMZbzu3IMVndDPtezz1TuSbj6msQJycDpgYp_wT7VAjOCky4wzxarW7uxIsj3bVxofZ-HzW-UaSUPNKWe1GCaIrYjgSABknbOaNTe4RWUQ6tJNEzndv06bODDmbRW1UKrDQ",
+                        "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/21/243895.jpg"
+                    }
+                },
+                {
+                    "title": "Certifying budget as urgent highlights PBBM's commitment to serve",
+                    "snippet": "MANILA – Speaker Ferdinand Martin G. Romualdez on Thursday said President Ferdinand R. Marcos Jr.'s move to certify the 2024 General Appropriations Bill ...",
+                    "publisher": "pna.gov.ph",
+                    "timestamp": "1695282360000",
+                    "newsUrl": "https://www.pna.gov.ph/articles/1210310",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/jYvn3uesGEKt6THHRCHwoMwGuRdT_4kS88FHDWfedk0c14d6L9p1NoxN35tS28ni9YtpLJ0tSk4IEykk1b8ml_RrnFrTwhblhkbt-pAPqhmTkYjTj20friei4A",
+                        "original": "https://files01.pna.gov.ph/ograph/2023/07/06/06072023jor-1-1.jpg"
+                    }
+                },
+                {
+                    "title": "Hearings on P5.7 trillion proposed budget to be transparent – Romualdez",
+                    "snippet": "MANILA, Philippines — The deliberations on the proposed P 5.7 trillion national budget for 2024 will be transparent, even if President Ferdinand The ...",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695279420000",
+                    "newsUrl": "https://newsinfo.inquirer.net/1834925/hearings-on-p5-7-trillion-proposed-budget-to-be-transparent-romualdez",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/KCu4qHzVWLedmXI6wSDBZujRonnh7fj6yoh_vzkx27he6zoBW9pojETrvcb1rTmSWdHqOgc4uvsV4KEo--T9pUGo9Til5bzQmSexDB82zzvM4Q",
+                        "original": "https://newsinfo.inquirer.net/files/2023/08/517862.jpeg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Remulla doubles down on remarks on 2 environmental activists",
+            "snippet": "Justice Secretary Jesus Crispin Remulla on Friday stood by the remarks he made against the two environmental activists who were earlier reported missing, ...",
+            "publisher": "GMA News Online",
+            "timestamp": "1695394637000",
+            "newsUrl": "https://www.gmanetwork.com/news/topstories/nation/883001/remulla-doubles-down-on-remarks-on-2-environmental-activists/story/",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/mkoW313iGSBr3APTpREp0mfitiFdbB-XgViHwx0faNJmYF_OxyK6l5B3Mn4c2y_y5We6Rv61TjHds4QH4UD0xPr8suTY0G_Gmuu3RIfThOfvaNfshHIs5ijZfCeyKl-2Qb83tR4F2Oo",
+                "original": "https://images.gmanews.tv/webpics/2023/03/soj_remulla_2023_03_22_18_04_09.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Gov't releases videos of 'abducted' activists",
+                    "snippet": "The National Task Force to End Local Communist Armed Conflict (NTF-Elcac) and the Philippine National Police have doubled down on their claims that The ...",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695332400000",
+                    "newsUrl": "https://newsinfo.inquirer.net/1835169/govt-releases-videos-of-abducted-activists",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/Vfxk-xSIp1PzTdGTdQIWNcYPsRMMmqyBLC28MPCcNUkp4Q1_UQ7T4QQwuoxPUCHh_F0A5t0Q1aPAlGT-24eaPLSaXT68d-NBh8A4YZPl9RfisA",
+                        "original": "https://newsinfo.inquirer.net/files/2023/09/538627.jpeg"
+                    }
+                },
+                {
+                    "title": "2 'abducted' activists received proper legal aid – PAO",
+                    "snippet": "PUBLIC Attorney's Office (PAO) chief Persida Rueda-Acosta on Thursday said environmental activists Jonila Castro and Jhed Tamano were given proper legal ...",
+                    "publisher": "The Manila Times",
+                    "timestamp": "1695312779000",
+                    "newsUrl": "https://www.manilatimes.net/2023/09/22/news/national/2-abducted-activists-received-proper-legal-aid-pao/1911207",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/s1N7is6OMFl3MXk94ugDYD0bZDL8GC62yx6flygODtGRjX8IQ4Zu9YNDeIOWZknZkU7k89b0-NeixV4oeJ7ACfMaPx9mUpBDwLM-bX9S8jfnPkZeUdndi5vvc2T46W49SUo5W8TnIQ",
+                        "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/21/244155.jpg"
+                    }
+                },
+                {
+                    "title": "Military readying raps vs activists",
+                    "snippet": "The National Task Force to End Local Communist Armed Conflict and Philippine Army are preparing to file criminal charges against environmental activists ...",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695312000000",
+                    "newsUrl": "https://www.philstar.com/headlines/2023/09/22/2298047/military-readying-raps-vs-activists-",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/GBdHgUNZV4nzlq3-CRaa2g4aQvJKnDe7lYVhnlzY-ewAkCFXTzDZIxmoOhreVeZTMfIEZ_DiOZjrReAb5cpYu3QcwNCtog1NbQQqTh1-9cTkoEqn1o7sF_dohQ5jdZQr4_6TJnLoIaniYi5_yD1_SfaTwK8Uafpa5ZxbSadndDk",
+                        "original": "https://media.philstar.com/photos/2023/09/21/62023-09-1921-58-27_2023-09-21_22-02-54799_thumbnail.jpg"
+                    }
+                },
+                {
+                    "title": "Cebu activists report of being followed before abduction",
+                    "snippet": "Development worker Dyan Gumanao says they filed complaints on December 6, 2022, at the Commission on Human Rights in Central Visayas after experiencing ...",
+                    "publisher": "Rappler",
+                    "timestamp": "1695298924000",
+                    "newsUrl": "https://www.rappler.com/nation/visayas/cebu-activists-report-hounding-stalking-before-abduction-2023/",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/cLiDAxvGIB3lYKftCM8N1hpTESKRk9IKMG9qjtDAKVWyo-6vaaXc-ZW2ry2Lva877doUXWXw-zM84iwloBGrDon7usQUWqJD7E3An3k6lcDU7ldIiyUu36QGGKLwDLbMGqhJ7989ijPCi6P4N1_YAw3LWDTcYHvHw6iqX1U5_Os",
+                        "original": "https://www.rappler.com/tachyon/2023/01/gumanao-dayoha-abduction-presser-cebu-january-21-2023-002.jpg"
+                    }
+                },
+                {
+                    "title": "Solon says courts will act on any petition involving abducted activists",
+                    "snippet": "MANILA, Philippines — The judiciary has vowed to address any complaint that would stem from the alleged abduction of two activists in Bulacan, whether.",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695289500000",
+                    "newsUrl": "https://newsinfo.inquirer.net/1835016/fwd-judiciary-budget-sponsor-says-courts-will-act-on-any-petition-involving-abducted-activists",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/WrDl8xYVQ3as1rg8MQFZffQFxGMq_rPTbDLRip3GZfzcxraWe10xSROuwuXI7vBKQG88kphWTKevFLsonxhWdgH4acLoQRQIo8a9ZAtxYClo4mOnLvFo_w7vHSheo7y-tOII9GlT",
+                        "original": "https://newsinfo.inquirer.net/files/2022/07/Congress-Malacanang-620x413.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "DENR deplores China's alleged coral harvest endagering WPS biodiversity",
+            "snippet": "The Department of Environment and Natural Resources has strongly deplored China's alleged harvesting of corals that endangers biodiversity in the West ...",
+            "publisher": "CNN Philippines",
+            "timestamp": "1695391820000",
+            "newsUrl": "https://www.cnnphilippines.com/news/2023/9/22/denr-deplores-acitivities-damaging-wps-corals-china.html",
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Philippines mulls new complaint vs China before Hague",
+                    "snippet": "MANILA — The Philippine government may again file a complaint against China before the Permanent Court of Arbitration due to alleged violations of ...",
+                    "publisher": "ABS-CBN News",
+                    "timestamp": "1695376440000",
+                    "newsUrl": "https://news.abs-cbn.com/news/09/22/23/philippines-mulls-new-complaint-vs-china-before-hague",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/MQ9EPdgCm9z22jQ-DULhltRMKAL23cgy0Gjs6LEwHpoOkLbGX1UelcdgonFANWOyRd9CeYvnPCaOOvr5bTRSTdQeIkYxwYfRPrM_Vz1S3pwPII5inQ9_rQijnh3QRwvJuhyAB-rh2mVuy9Lpxsl1U7a9-MZ2omdFsASa",
+                        "original": "https://sa.kapamilya.com/absnews/abscbnnews/media/2023/news/09/16/harvesting-corals-09162023.jpg"
+                    }
+                },
+                {
+                    "title": "China on corals: Philippines creating political drama from fiction",
+                    "snippet": "MANILA, Philippines — It's the grounded BRP Sierra Madre in Ayungin Shoal that is causing “irrevocable harm” to the marine environment, according to China, ...",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695398400000",
+                    "newsUrl": "https://www.philstar.com/headlines/2023/09/23/2298377/china-corals-philippines-creating-political-drama-fiction",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/Py9sOKLRWGqSVsRrSi27Fh1rOUvg3AmCp4hfu0GdyS-JuFVl9e2IM6EtHtC7C-miCF1ET-l7oCD2iukGKVmVV1_exQNEujEM6nzWzYjO5921hATEydLfJnGv3CVRG9sc9EhgFfm4hW1WujylveXjoMJa7WKeJAXKfcobDf-JCmeOVWnUTTTXhz4YOISM1SZUG7ez4Z8Xedj53_a3paQ-Rqs",
+                        "original": "https://media.philstar.com/photos/2023/09/22/coral-escodajpg2023-09-1908-59-472023-09-2009-52-57_2023-09-22_22-56-50729_thumbnail.jpg"
+                    }
+                },
+                {
+                    "title": "From intrusion to destruction | Inquirer Opinion",
+                    "snippet": "For the longest time, the dispute over the West Philippine Sea (WPS) has centered on China's incursions into Philippine territory as defined by a 2016 For ...",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695330900000",
+                    "newsUrl": "https://opinion.inquirer.net/166502/from-intrusion-to-destruction",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/M2a0f_wlXK0dwiu7yLrVsMZzf3IExWmMbFyQFMjtJPgNFAfZ7F2OZ0M9cLAsbwwWv7O0YWm_ENxMrUWSqh0TkpzpOhtuWEXzxQszJivXJ6vPaUf7ovTYmVv5YqYQP8C8Sv7dEMWyhpeDHqsV7Q",
+                        "original": "https://opinion.inquirer.net/files/2023/09/viber_image_2023-09-21_18-00-06-822.jpg"
+                    }
+                },
+                {
+                    "title": "The soundness of filing a second case vs China at PCA",
+                    "snippet": "AS reported by The Manila Times, the Philippines will file environmental cases against China for its allegedly destructive activities in the part of the ...",
+                    "publisher": "The Manila Times",
+                    "timestamp": "1695398760000",
+                    "newsUrl": "https://www.manilatimes.net/2023/09/23/opinion/columns/the-soundness-of-filing-a-second-case-vs-china-at-pca/1911318",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/2opwojvCDGESh0L4CS-D5rkWcxqzqieb6YHT0k4lGROpz7cQpgyHRCwwD0t8YWDSkDmc8is6Yf2DhgSxh5jCthGAy1B1m971C4pgz6Olhowrs9-hH7YFKm4LxUG7NjJD4os4BoexxA",
+                        "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/22/244581.jpg"
+                    }
+                },
+                {
+                    "title": "PH should tap international experts to prove China's possible destruction of corals in WPS – senator",
+                    "snippet": "Senator Francis Tolentino says the Philippines should work with international experts in collecting evidence to help prove that the destruction of coral ...",
+                    "publisher": "CNN Philippines",
+                    "timestamp": "1695359433000",
+                    "newsUrl": "http://www.cnnphilippines.com/news/2023/9/22/tolentino-international-experts-wps-corals.html",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/JgHc7PATW7I0ttNY1GqhmtZPvgAo31JEliWRr0JhnIbevxkbHnyABAttbMFLdtdXilO5b5GdX-I4RfG7zSKOh6U5ySi6jCY3Gnpko7xGHd8su9-jZloyfYBkTV-vWHUfbWiwKW16VyDdKai_yKmjIgoaEcNxRczbvlQy7Xc8CExOyS3J_VVMECA8hi-Y8Z6qg9wq9FlmJUxkd_pqMvsE7Imm3H6H",
+                        "original": "http://www.cnnphilippines.com/.imaging/default/dam/cnn/2023/9/16/Rozul-Reef_CNNPH.jpg/jcr:content.jpg?width=750&height=450&crop:1:1,smart"
+                    }
+                },
+                {
+                    "title": "DFA backs OSG in exploring legal options on WPS coral reef destruction",
+                    "snippet": "MANILA – The Department of Foreign Affairs (DFA) has expressed its readiness to support the Office of the Solicitor General (OSG) as it explores legal ...",
+                    "publisher": "pna.gov.ph",
+                    "timestamp": "1695343080000",
+                    "newsUrl": "https://www.pna.gov.ph/articles/1210361",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/XnDQEKov1X3veGpk3ARfk9Qy0JZkLgjY4eyWdmdWfCDPt05PwXqVvUuJ7lGZlN8HPfYInQedOqjYPhWDy2GRkhW9jiJNIg92UtuhAYud95L5XADo",
+                        "original": "https://files01.pna.gov.ph/ograph/2022/07/28/5b0a9691.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Food makers resist gov’t plea",
+            "snippet": "Food manufacturers are resisting government's request to defer increasing the prices of their goods entering the holiday season, amid soaring prices of fuel ...",
+            "publisher": "manilastandard.net",
+            "timestamp": "1695406817000",
+            "newsUrl": "https://manilastandard.net/news/top-stories/314373013/food-makers-resist-govt-plea.html",
+            "hasSubnews": false
+        },
+        {
+            "title": "Folklore: A Halloween Festival at the Mall of Asia Arena on Oct. 28",
+            "snippet": "Folklore: A Halloween Festival will transport attendees to mystique and wonder with enchanting Halloween-themed photo booths and activations.",
+            "publisher": "Manila Bulletin",
+            "timestamp": "1695426265000",
+            "newsUrl": "https://mb.com.ph/2023/9/22/folklore-a-halloween-festival-at-the-mall-of-asia-arena-on-oct-28",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/j3ze5eTYiDFc41duPx5kS1nz2dyM7NE84f5VXARBqhk7dUsaBZUf_jwfUBhuvV3TwbEz-k3BT_89cFXuCWs33CVOle7mtfBTlY4kWYheix-z_UmMTx0MSq6-iwhkdh8S-e1wz2yekvJKY7XCBa7AR4tp_ie0DLVlKdlpwGDfHzYQ509-PcGEJLjQ1fGvUYk0vWDWn6XS0GzqeS_sneFBnAU7Q2SKiOLAh7UhpnTkHw",
+                "original": "https://mb.com.ph/media/Individual_KV_T_I_Folklore_10_28_23_MOA_Arena_v6_cdd254d263/Individual_KV_T_I_Folklore_10_28_23_MOA_Arena_v6_cdd254d263.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "6 NPA rebels slain in Negros clash",
+            "snippet": "Six New People's Army rebels were killed an encounter with soldiers in Purok Lubi, Barangay Tabugon in Kabankalan City in Negros Occidental on Thursday.",
+            "publisher": "Philstar.com",
+            "timestamp": "1695398400000",
+            "newsUrl": "https://www.philstar.com/nation/2023/09/23/2298296/6-npa-rebels-slain-negros-clash",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/5TqRRuRXQoYLcKK6D0gKcKF8nqYmgds5_lA1kyV1Lnhj7rXjam-PX8rCxPhBfNHqQ4q_QzRWcotL-vLWrebxYDcoHZfDkTe2kxoPYx9K-5JUs1K4FrEREJ9FUYBo",
+                "original": "https://media.philstar.com/images/filler/logo-filler-thumbnail.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Dry and hot start to Fall 2023!",
+            "snippet": "LUBBOCK, Texas — KLBK Chief Meteorologist Jacob Riley has your Thursday evening weather update for September 20th, 2023. Tonight: Partly to mostly cloudy.",
+            "publisher": "KLBK | KAMC | EverythingLubbock.com",
+            "timestamp": "1695352128000",
+            "newsUrl": "https://www.everythinglubbock.com/weather/dry-and-hot-start-to-fall-2023/",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/yCBE3mINfgDGeR6HDPDZjOYybFAA4csFAcdMlBs_a2wtw0l-as6-xM-wN-3LVRPUMYJf8LChJfHI-ZqsYFy_lDZBJ9rYzB4zBGKhrDbwtN9mOlValv_vNnYWC0MOViN7ptH9qFz9f7E74GOX2zIxOJ-ForNtv-QU",
+                "original": "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2023/09/Fall-Begins.jpg?strip=1"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Friday, September 22 forecast – Keeping an eye on storms Saturday evening",
+                    "snippet": "Storms Saturday evening could become severe with wind and flooding the primary hazards.",
+                    "publisher": "KOLR - OzarksFirst.com",
+                    "timestamp": "1695374426000",
+                    "newsUrl": "https://www.ozarksfirst.com/top-stories/friday-september-22-forecast-keeping-an-eye-on-storms-saturday-evening/",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/H-R7NuivRXFa7ZIVrtTNftPr4BIAd-Q-HsTRaaqLBNO5agIPC6fEkSgQmAx450k85pn9jfT_9SzWc3cUZsQfcz6v0qFDw_s53A7EDf33kVh8oEtB-TZtL1-ow0okKPKOedBBfwLfD-W8qSV_JL6McaKqIwF1Bw",
+                        "original": "https://www.ozarksfirst.com/wp-content/uploads/sites/65/2023/09/Severe-Threats-.png?strip=1"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Tourism backs DoTr on erring airport staff",
+            "snippet": "THE Department of Tourism (DoT) fully backs Department of Transportation (DoTr) Secretary Jaime Bautista's recommendation to impose the highest penalty on ...",
+            "publisher": "The Manila Times",
+            "timestamp": "1695399240000",
+            "newsUrl": "https://www.manilatimes.net/2023/09/23/news/national/tourism-backs-dotr-on-erring-airport-staff/1911326",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/FqcUxAE2i_U9ZQmWlVlo9b8doyozKvhp5k31y3wUPh0_XiZYE6cbn5zgX-mhuiBisKnZPJXnq5jA4sOncK5Eup8FBW5c61FG2Bgi6suOTOslCbiNfgL3CFWC0I9U2jj2ImyiKXpzWQ",
+                "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/22/244589.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Crime vs. tourist is 'crime against PH' – DOT",
+                    "snippet": "MANILA – The Department of Tourism (DOT) has expressed its disappointment over the incident involving erring airport personnel caught on camera swallowing ...",
+                    "publisher": "pna.gov.ph",
+                    "timestamp": "1695344640000",
+                    "newsUrl": "https://www.pna.gov.ph/articles/1210362",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/gziwgkTJL83dxibJX-CN3KRijF98bJPTIw0kaA-naScbxqNtPPfbR6c4S5m911PyfGKm-avqrSx1_i8uj_DUuSWToLlDUvrrnYHtx-Y7crmpkUQcz-rEPXd7Q7MQZpz4vCN2Vg",
+                        "original": "https://files01.pna.gov.ph/ograph/2020/07/08/20200708094908mg0364-01.jpeg"
+                    }
+                },
+                {
+                    "title": "Hard to swallow: NAIA 'mafia' seen in latest scandal",
+                    "snippet": "Senators on Thursday called on officials of Ninoy Aquino International Airport (Naia) to carry out a deep probe to dismantle any “mafia” operating inside ...",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695333120000",
+                    "newsUrl": "https://newsinfo.inquirer.net/1835153/hard-to-swallow-naia-mafia-seen-in-latest-scandal",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/QlwW4Dz8Y6Znz1JqO9iTR4XrnlnUJb6yw7IWoy0VOhvvxAmxfHbebwjnG1xUx7AU0KVlOZ-aKvEEKU2Y236BbvpmRhhB1lZmfxFuUP_aKYQqtH_geIbfxQ",
+                        "original": "https://newsinfo.inquirer.net/files/2023/09/NAIA-officer.jpeg"
+                    }
+                },
+                {
+                    "title": "OTS: 4 screening officers probed over Naia $300 theft case",
+                    "snippet": "The Office for Transportation Security (OTS) is currently investigating four screening officers allegedly involved in a theft incident at Ninoy Aquino ...",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695344820000",
+                    "newsUrl": "https://newsinfo.inquirer.net/1835355/four-screening-officers-currently-under-probe-in-naia-300-theft-incident",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/QlwW4Dz8Y6Znz1JqO9iTR4XrnlnUJb6yw7IWoy0VOhvvxAmxfHbebwjnG1xUx7AU0KVlOZ-aKvEEKU2Y236BbvpmRhhB1lZmfxFuUP_aKYQqtH_geIbfxQ",
+                        "original": "https://newsinfo.inquirer.net/files/2023/09/NAIA-officer.jpeg"
+                    }
+                },
+                {
+                    "title": "Dollar-eaters",
+                    "snippet": "The Ninoy Aquino International Airport, a mainstay in the “worst of” lists since 2010, is sporting a new black eye.",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695398400000",
+                    "newsUrl": "https://www.philstar.com/opinion/2023/09/23/2298360/dollar-eaters",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/5TqRRuRXQoYLcKK6D0gKcKF8nqYmgds5_lA1kyV1Lnhj7rXjam-PX8rCxPhBfNHqQ4q_QzRWcotL-vLWrebxYDcoHZfDkTe2kxoPYx9K-5JUs1K4FrEREJ9FUYBo",
+                        "original": "https://media.philstar.com/images/filler/logo-filler-thumbnail.jpg"
+                    }
+                },
+                {
+                    "title": "EDITORIAL - Little to love at NAIA",
+                    "snippet": "From arrival to departure at the Philippines' main gateway, it's no fun. In February this year, a Thai tourist's last memories of his visit in the ...",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695312000000",
+                    "newsUrl": "https://www.philstar.com/opinion/2023/09/22/2298083/editorial-little-love-naia",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/wJE75mygfuMDMUbAoFTQkiwHsm-WFtmzRGPCeSAnZ0Zm0C9DPAio9FeaGKjTzU5NONPLWBKdFaGTDa2_aR0yK9O0fQHo9Y8aikYWWMsH7EKKqMC1ZKA6wQt4wfC1ZiEFrY7A-aW6vU2j9OXAlboojYt4-aDbXPQV-ZTw3ktzybCN6FOqxC_7fAvoCh89kghgFN53hzDSHUd8",
+                        "original": "https://media.philstar.com/photos/2023/09/21/editorialdefault-12023-05-3013-49-27thumbnail_2023-09-21_23-05-2527_thumbnail.jpg"
+                    }
+                },
+                {
+                    "title": "DOT backs 'maximum penalty' vs NAIA officer who swallowed stolen $300",
+                    "snippet": "MANILA, Philippines (Updated 12:05 p.m.) — The Department of Tourism has thrown its support behind a directive to impose the maximum penalty on an airport ...",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695354780000",
+                    "newsUrl": "https://www.philstar.com/headlines/2023/09/22/2298211/dot-backs-maximum-penalty-vs-naia-officer-who-swallowed-stolen-300",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/qWDKtLuSXbc55PdguCRl9nMy4FckbZjGF-nYUA4PkoYvSzCSvhLWqhcV7MNBP_KqAHLUBZnPDApilubN8LaatA4AjQSjLEa9NL7XZqZVhma-04mylQE_QZcVJef8jUsduEZvJPD8pi7vRoe5ez_aTT8",
+                        "original": "https://media.philstar.com/photos/2023/09/20/asas_2023-09-20_23-15-53762_thumbnail.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Bautista-Smartmatic rap 'an eye-opener'–Comelec",
+            "snippet": "Commission on Elections (Comelec) Chair George Garcia on Friday said it was “premature” to bar poll technology company Smartmatic from the bidding to ...",
+            "publisher": "Inquirer.net",
+            "timestamp": "1695419700000",
+            "newsUrl": "https://newsinfo.inquirer.net/1835665/bautista-smartmatic-rap-an-eye-opener-comelec",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/4nKqwY1tQeP8Y-59yhIaGTBsvTEEvRCrcZnvfCh2HLask7KlelOcx9LFwU8mCZhotf_WXeAWdPk9zY5kbyDZkCfVTCbps3QNx-LMQYbY0NnudGJzSHjlu8-szxqrvTaU8Sa58Iytcu_7NV36MdTjMXp0Pw",
+                "original": "https://newsinfo.inquirer.net/files/2023/09/George-Garcia-Andres-Bautista-23Sept2023.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Rainy Saturday due to LPAs, 'habagat'",
+            "snippet": "MANILA – A couple of low-pressure areas (LPAs) off Luzon, along with the southwest monsoon or “habagat,” will bring rains across the country, ...",
+            "publisher": "pna.gov.ph",
+            "timestamp": "1695424020000",
+            "newsUrl": "https://www.pna.gov.ph/articles/1210424",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/8dnOpwPUZKCbCFFIzIhsza2QCIiCyCU_1yohUXHuOTtRov5DlrmfFJDCDaEsC0F1MwjISVSj3C6g8jmLMiunlY9Phf9L4Zu-wrxdFLxR2SND",
+                "original": "https://files01.pna.gov.ph/ograph/2019/03/23/rainy.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Rainy weekend over Luzon, Visayas – Pagasa",
+                    "snippet": "(UPDATE) THE state-run weather agency on Friday said it would be a rainy weekend over Visayas and Luzon including Metro Manila as a result of the ...",
+                    "publisher": "The Manila Times",
+                    "timestamp": "1695420963000",
+                    "newsUrl": "https://www.manilatimes.net/2023/09/23/news/national/rainy-weekend-over-luzon-visayas-pagasa/1911262",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/0vpKuWPKxqaW29Mn_J0ggSS_IY6tC2gLPHdBr8FvtkPSReJOeybJELlF54o9iimhOPKpKCOk_sDTRcjqDQLUl7LoyjmYPK-pgzB6dpnpeCouylqAzyqAQkhnhO_INr3S_sUhtARhRQ",
+                        "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/22/244591.jpg"
+                    }
+                },
+                {
+                    "title": "LPA off Quezon, southwest monsoon bringing scattered rain",
+                    "snippet": "The low pressure area is spotted 125 kilometers east northeast of Infanta, Quezon, on Friday, September 22.",
+                    "publisher": "Rappler",
+                    "timestamp": "1695384302000",
+                    "newsUrl": "https://www.rappler.com/nation/weather/low-pressure-area-southwest-monsoon-update-pagasa-forecast-september-22-2023-4pm/",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/q0OsAPYJb9-_l3Vpj65ACYyCAfibeLx1DsSY4jbhPnJUjct-tHDWU3_kwuy3rellyYuZsTlVAcxqhSDu5hqEv9DWbSMrp2GU27qPAaHuEGcOhvnrCiL2G7Kq6SeaGhOWKa3fpNU1MB7WQQ",
+                        "original": "https://www.rappler.com/tachyon/2023/09/lpa-satellite-september-22-2023-4pm.png"
+                    }
+                },
+                {
+                    "title": "PAGASA monitors 2 LPAs; to bring scattered rain over parts of the country",
+                    "snippet": "The Low Pressure Area (LPA) was estimated at 85 kilometers northeast of Infanta, Quezon while another LPA was estimated at 125 kilometers west of Iba, ...",
+                    "publisher": "GMA News Online",
+                    "timestamp": "1695414581000",
+                    "newsUrl": "https://www.gmanetwork.com/news/scitech/weather/883021/pagasa-monitors-2-lpas-to-bring-scattered-rain-over-parts-of-the-country/story/",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/MhmUNDJMHdZ3auIWT1AM1gswlUODb8inS2KmzHiSCBS8Rr_ZlF3MbMQTCqbdaHbkvbydD6ybgKDyT0CBxkYbPNXygrJwkuRBrG7Jqq_bHmhXV8QnmP2A3UIbA6YNC3XgBaLKVHKijTA0vwDXfqzUnarqGVLoqPa7i48IsW1k-v8Vfw",
+                        "original": "http://images.gmanews.tv/webpics/2023/09/Weather_as_of_4_am,_September_23,_2023_2023_09_23_04_20_28.jpg"
+                    }
+                },
+                {
+                    "title": "Rainy weekend over Luzon, including Metro Manila – Pagasa",
+                    "snippet": "THE state-run weather agency disclosed on Friday that it would be a rainy weekend over Visayas and Luzon, including Metro Manila due to the inter-tropical ...",
+                    "publisher": "The Manila Times",
+                    "timestamp": "1695346680000",
+                    "newsUrl": "https://www.manilatimes.net/2023/09/22/news/rainy-weekend-over-luzon-including-metro-manila-pagasa/1911262",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/AimzQhgJJZdra96OgsGdkw-lLQYLu8iI8c9yzD8ikiWM5XPylS_23JdgjUKs1PueR0N23YSBrEZgrpCBTzcCecgwEQXj82XtYO7xCikivtQKNF6FQJSKqPhHWDY_uk1XWubM6CuuRw",
+                        "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/22/244216.jpg"
+                    }
+                },
+                {
+                    "title": "ITCZ to bring rains over most of PH",
+                    "snippet": "MANILA – Most parts of the country will experience rains due to the Intertropical Convergence Zone (ITCZ) affecting Southern Luzon, the Visayas and Mindanao ...",
+                    "publisher": "pna.gov.ph",
+                    "timestamp": "1695348000000",
+                    "newsUrl": "https://www.pna.gov.ph/articles/1210365",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/8dnOpwPUZKCbCFFIzIhsza2QCIiCyCU_1yohUXHuOTtRov5DlrmfFJDCDaEsC0F1MwjISVSj3C6g8jmLMiunlY9Phf9L4Zu-wrxdFLxR2SND",
+                        "original": "https://files01.pna.gov.ph/ograph/2019/03/23/rainy.jpg"
+                    }
+                },
+                {
+                    "title": "LPA spotted off Quezon's coast",
+                    "snippet": "A low pressure area spotted off the coast of Quezon is affecting parts of the country, according to the state weather bureau PAGASA on Friday.",
+                    "publisher": "GMA News Online",
+                    "timestamp": "1695371415000",
+                    "newsUrl": "https://www.gmanetwork.com/news/scitech/weather/882963/lpa-spotted-off-quezon-s-coast/story/",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/Dv20Egi1BEm0Gqc5k0KlcYb9oLCfLaybU3VXEof45nIJK27Ar1fZ7IPglEXNrdwJGsSWzzZWHfyreSHFYIYLfAf9kIzA9cPGOyEi7PRES8iRdEFWI13hv3yuUQ_3jh0jb78z9Qxk2dxugf2xgg",
+                        "original": "https://images.gmanews.tv/webpics/2023/09/Screenshot_(568)_2023_09_22_16_26_04.png"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "LOOK: Groups nationwide raise anti-terror law fear on 51st Martial Law commemoration",
+            "snippet": "Various groups across the country challenge the impact of Anti-Terror Law through protests and gatherings in time of 51st Martial Law commemoration.",
+            "publisher": "Rappler",
+            "timestamp": "1695302218000",
+            "newsUrl": "https://www.rappler.com/moveph/photos-commemoration-martial-law-september-21-2023/",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/0H59gR7Ao-BGJqY4_e08ntKFpY7CTlTG06l0sR9g_6a9imujAxbGt6Y-0wvXd6eabCIXonhkeA2Wv1c4ADAgTxENPyqCbyeVXRkkJKwoty8TYJXUXlxZrb32dfe8L-WHZYSfJjdf_HxbjxdywMD6Xv4HCnbn_NY",
+                "original": "https://www.rappler.com/tachyon/2023/09/381032454_1089978021974139_49303720374857016_n-1.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Street outcry, Palace silence on martial law anniversary",
+                    "snippet": "Thousands gathered in various urban centers on Thursday to honor the activists, unionists, religious leaders, academicians, community organizers, artists, ...",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695332040000",
+                    "newsUrl": "https://newsinfo.inquirer.net/1835151/street-outcry-palace-silence-on-martial-law-anniversary",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/XxV1tdAN8qALnfXT6FlOqRLZMFO1_fYfqEtQEQU06OrFH0ag0rYAyL4JW9-E_5pdB1MoIooGjyHZL8fz2K7FyonS7PxB4kjUDasCI4K0qv6-DA",
+                        "original": "https://newsinfo.inquirer.net/files/2023/09/538623.jpeg"
+                    }
+                },
+                {
+                    "title": "51 years of impunity: legacy of martial law",
+                    "snippet": "In Latin America, after the downfall of the military dictatorships, popular demands impelled liberal or progressive heads of government to exact ...",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695398400000",
+                    "newsUrl": "https://www.philstar.com/opinion/2023/09/23/2298362/51-years-impunity-legacy-martial-law",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/5TqRRuRXQoYLcKK6D0gKcKF8nqYmgds5_lA1kyV1Lnhj7rXjam-PX8rCxPhBfNHqQ4q_QzRWcotL-vLWrebxYDcoHZfDkTe2kxoPYx9K-5JUs1K4FrEREJ9FUYBo",
+                        "original": "https://media.philstar.com/images/filler/logo-filler-thumbnail.jpg"
+                    }
+                },
+                {
+                    "title": "[OPINION] Jhed and Jonila: 51 years after Martial Law, enforced disappearances persist",
+                    "snippet": "'We owe it to Jonila and Jhed who bravely stood up against their oppressors while sitting beside them at a press conference'",
+                    "publisher": "Rappler",
+                    "timestamp": "1695277352000",
+                    "newsUrl": "https://www.rappler.com/voices/thought-leaders/opinion-jhed-jonila-years-martial-law-enforced-disappearances-persist/",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/TvCr_Z9hxW--UwTZpGaQDfVp4EdSWVM8ganw-WjvkvlFkA_264n2pt0hQANKcKzBX0q30ps8__H9S_3m_1mbgWDWQBk1PXx_EX4cNYLZirNNde-9dKGiocmtmkf8XP4piNI",
+                        "original": "https://www.rappler.com/tachyon/2023/09/tl-jhed-jonilla-martial-law.jpg"
+                    }
+                },
+                {
+                    "title": "Northern Luzon students remember martial law declaration",
+                    "snippet": "Hundreds of students and several progressive groups occupied the streets of Baguio City to commemorate the declaration of martial law.",
+                    "publisher": "ABS-CBN News",
+                    "timestamp": "1695335280000",
+                    "newsUrl": "https://news.abs-cbn.com/news/09/22/23/northern-luzon-students-remember-martial-law-declaration",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/cJLfspTnQk6OocyQClbGO7f3AtT5Wndwl-9Puv8U_6wXuhdF7bd0EOArMd3Mdgd-H-Luj2gGY_Dk0JWd879ud14SOBKnzlbJAO3MqXau6YXtcQzNorwu0BhOETJzIPkF5RLmFyfCLVmAcegnmTtlpTUQ5ap4SDHpvQcaGmfBOqjRLu-DaQ",
+                        "original": "https://sa.kapamilya.com/absnews/abscbnnews/media/2023/news/09/22/20230922-baguio-students-martial-law.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Members of Congress mourn Reps. Fernando, Pancho",
+            "snippet": "MANILA – The House of Representatives on Friday adopted a resolution expressing the Chamber's deep sympathy and profound condolences to the family of the ...",
+            "publisher": "pna.gov.ph",
+            "timestamp": "1695384180000",
+            "newsUrl": "https://www.pna.gov.ph/articles/1210413",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/kdEoM7y3ngMcmH-lrnXnE-5Lu188KZiKHONyELced53vZeDn6nSEOvwWeVmjBFaGm9PuDM9HJIN0j9if59v8s0RXLCWTm5QsAER7B2rpoWLPh4RcOd7LpizbWPoFx5mrdryM__dvsA",
+                "original": "https://files01.pna.gov.ph/ograph/2022/07/25/19th-congressopeningsession.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Gilas destroys Korea, advances to Fiba U16 Asian Championship quarterfinals| SUNSTAR",
+            "snippet": "THE young ballers of the Gilas Pilipinas finally shattered the Korean curse as they toppled Korea, 95-71, to advance to the quarterfinals of the Fiba U16 ...",
+            "publisher": "SunStar Philippines",
+            "timestamp": "1695379880000",
+            "newsUrl": "https://www.sunstar.com.ph/article/1973480/cebu/sports/gilas-destroys-korea-advances-to-fiba-u16-asian-championship-quarterfinals",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/IftR7zla29l07w89TRdQX-59T5hRAmFVWCkifJbyoADhjJ9UTLa3Jd9a8vWTVeEc6OmNUpig54Buej0K51DyC2b3CpUHPOt7R7Yfk414wEptfOd2xFBr5E7TCA",
+                "original": "https://www.sunstar.com.ph/uploads/images/2023/09/22/466224.jpeg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Australia, China, New Zealand, and the Philippines claim last spots at FIBA U17 World Cup",
+                    "snippet": "DOHA (Qatar) - Australia, China, New Zealand, and the Philippines all won in the Quarter-Finals of the FIBA U16 Asian Championship 2023 to claim the ...",
+                    "publisher": "FIBA",
+                    "timestamp": "1695407430000",
+                    "newsUrl": "https://www.fiba.basketball/asia/u16/2023/news/australia-china-new-zealand-and-the-philippines-claim-last-spots-at-fiba-u17-world-cup",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/wAXEy1IrXo9ZI5EYWTsMKdTudvT1YBOeRcJGgtoohqeQmgjZAaU5Hfm7vIEazegX7q2wvPfqrUQewxUj3IzaTZlAYdfo_aP8jC_jP7n3lZK0GY8Y8htfXvFgvRNn5R4TyRdIkjggdPvgiyegegr-d0ZrMdq79LS1j4XrmaGLT3FhXcaU3w",
+                        "original": "https://www.fiba.basketball/images.fiba.com/Graphic/6/D/A/0/5uz7PbfY-EqfAfGAUk2Twg.jpg?v=20230922202433954"
+                    }
+                },
+                {
+                    "title": "Gilas boys end drought vs Korea, barge into quarterfinals",
+                    "snippet": "The curse of South Korea has been broken. This time, in boys' play.",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695345540000",
+                    "newsUrl": "https://www.philstar.com/sports/2023/09/22/2298192/gilas-boys-end-drought-vs-korea-barge-quarterfinals",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/wB52a6qsg4ekJPz9WrH23SScOvMbmLnO11Fg8Lg901XFTOib16e00qK31PFUtwLZPT3usOZDNI07lFsbQMLVQdsAPwateI-24OArZ4Yw_g9IaybZdMLaIXIZLsuvtsyYf03pwu-APrC2zymkufqOu3fjZkKc",
+                        "original": "https://media.philstar.com/photos/2023/09/22/image-41_2023-09-22_09-18-13651_thumbnail.jpg"
+                    }
+                },
+                {
+                    "title": "Qatar beat India to seal maiden quarters berth",
+                    "snippet": "Doha: Qatar yesterday made history at the FIBA U16 Asian Championship as they defeated India 87 84 to clinch their first ever quarter final berth in t...",
+                    "publisher": "The Peninsula",
+                    "timestamp": "1695371580000",
+                    "newsUrl": "https://thepeninsulaqatar.com/article/22/09/2023/qatar-beat-india-to-seal-maiden-quarters-berth",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/-goUhv1IeCOFatoo2fwpkATVkVKZradGduiXPEXOAJDfoA6f45V9gWt9VCFHYUKQCkHZooYMLgzAWDk4WOqv80l98MBSO1yfUMegnLH15JJ9QjjydfGBCtUqmdcC0FYvxkC8splxxHmXCVPoYD1u",
+                        "original": "https://m.thepeninsulaqatar.com/get/maximage/20230922_1695371739-665.jpeg?1695371739"
+                    }
+                },
+                {
+                    "title": "PH beats Korea by 24, marches to FIBA U16 Asian quarterfinals",
+                    "snippet": "The Philippines crushed Korea, 95-71, to clinch a quarterfinals seat in the FIBA U16 Asian Championship 2023 in Qatar.",
+                    "publisher": "ABS-CBN News",
+                    "timestamp": "1695346980000",
+                    "newsUrl": "https://news.abs-cbn.com/sports/09/22/23/ph-beats-korea-by-24-marches-to-fiba-u16-asian-quarterfinals",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/H9iihSkcp6ykCKtPzqPgIH7qUHPHAclOtPbUw7C6caIFJwpVfnclNSUWmzXozBXdwPmkucRSKZVxXnMuL80oYmKmzmCH3l1VGrWuQ_j2SaqpR7KOMro8_opJxGu40WDIAIcMvYDzbLYFHQuyY6WCQtQ",
+                        "original": "https://sa.kapamilya.com/absnews/abscbnnews/media/2023/tvpatrol/09/22/batang-gilas.jpg"
+                    }
+                },
+                {
+                    "title": "Curse broken: Philippines beat Korea for first time, reach Quarter-Finals",
+                    "snippet": "DOHA (Qatar) - For the first time ever at the youth level in FIBA competitions, the Philippines defeated Korea to advance to the Quarter-Finals of the FIBA ...",
+                    "publisher": "FIBA",
+                    "timestamp": "1695320900000",
+                    "newsUrl": "https://www.fiba.basketball/asia/u16/2023/news/curse-broken-philippines-beat-korea-for-first-time-reach-quarter-finals",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/UOwNaoRDYcwto2mFGQqtfY7MFMjoTFo0RSxa_3sUNyfdFqGL0JAkWW1RXgdOZ8Subp8ftnJC2kxDsvMFrvMeO0yTMCHof_9xqvtHVIpvs60dt-U4LoEufeEafiN0biRGORvWaCVV3iEU9NK_OpQuAlJ9cu1aQ11GuBMMFosWxe_462RkCg",
+                        "original": "https://www.fiba.basketball/images.fiba.com/Graphic/F/8/F/6/DxukmPTTTE-bFUBWr3axzQ.jpg?v=20230921201608471"
+                    }
+                },
+                {
+                    "title": "Double kill against Korea",
+                    "snippet": "Gilas Pilipinas men's and boys' teams scored a double kill against Korea in gigs held 16 hours and over 7000 kilometers apart.",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695398400000",
+                    "newsUrl": "https://www.philstar.com/sports/2023/09/23/2298341/double-kill-against-korea-",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/W6-JBapMJkl2Aq9EMmwOiUJ_yrLwm52RCgQr9F6aZwxsqK2AU54-mnl_71DqEhWI41qqTiumixDjvGGBNE0MBNFrBcex3qZLn7c2gqbEz7W41T--16g1tdt1ZfetVPhBSZ4ll5pDbbvGJVSFd6wlWA",
+                        "original": "https://media.philstar.com/photos/2023/09/22/sas_2023-09-22_23-41-56728_thumbnail.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "China claims it rescued 2 Filipino fishermen in Spratly Islands",
+            "snippet": "Chinese state media Xinhua claims a Chinese militia vessel rescued two Filipino fishermen in the Spratly Islands.",
+            "publisher": "CNN Philippines",
+            "timestamp": "1695399873000",
+            "newsUrl": "https://www.cnnphilippines.com/news/2023/9/23/china-claims-2-fishermen-rescued.html",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/aM2dreSuXEvhrtTqjM2BHPlXAB1GBdshbbmbKm-SRNiunh75rOxdEont2a3EmJKc_WdfMQw-RSmh3syqNxGGlTxiWgDRdKB9QFm5IuUDZU3wzGwjPjXii0hPpNbFJEpvt-ZNG7pis0FqlwjsuIh_V6_OY_tf0SLnK6CL0pAGlwcSY1aUIGSf0J0VlKNV7CL8UAr8G8CP8lXqQ3jfY-qjgexzvBCTCPKHh_dlEH05Sw",
+                "original": "https://www.cnnphilippines.com/.imaging/default/dam/cnn/2020/4/22/Spratly-Islands-map_CNNPH.png/jcr:content.png?width=750&height=450&crop:1:1,smart"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Biggest ever Asian Games set to kick off in China’s Hangzhou",
+            "snippet": "Nearly 12500 athletes – more than ever before – from 45 countries and territories are set to compete across 40 sports.",
+            "publisher": "Al Jazeera English",
+            "timestamp": "1695391313000",
+            "newsUrl": "https://www.aljazeera.com/sports/2023/9/22/biggest-ever-asian-games-set-to-kick-off-in-chinas-hangzhou",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/xX5yUPEZur9BNszzS1mDrSS0F-lIBMpz2Sey2_TMmmJ2jrZ05pMAGECPHIgHn662jLt4C5DHkRPbwo5ppYn7INQkMN14PcTSyt_utrnxKJvY5252yOzdkzbj3QWZQYQP9Enjzsi634z8zTN_TJcua49FQ8JjBY-Tq6ZYaxevdYLDnHth4nL0oxP2gEnRfth2HFrShvq1tIRFakY5SllmTLGFHp9TRyndZ-qaxN70IddiDs4",
+                "original": "https://www.aljazeera.com/wp-content/uploads/2023/09/2023-09-22T104555Z_39549547_UP1EJ9M0TWH4F_RTRMADP_3_GAMES-ASIA-2-1695388760.jpg?resize=1920%2C1440"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "19th Asian Games to be streamed live on Smart Livestream App",
+                    "snippet": "After bringing the highly successful FIBA Basketball World Cup to Filipino fans, mobile services provider Smart Communications, Inc. (Smart) will stream the ...",
+                    "publisher": "The Manila Times",
+                    "timestamp": "1695351060000",
+                    "newsUrl": "https://www.manilatimes.net/2023/09/22/sports/19th-asian-games-to-be-streamed-live-on-smart-livestream-app/1911267",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/H-itTu0CM6imbErnyJixTckS1BQn_nge2S4NAkXCZbIYpHEuapGbnWSJ_aYoar3j5aEqS0BEV05Dsc6I28UqwkQfipLgQhLea9Ns982Or6FKke4Q-93rd0EMVdG4FXgHqmwqMEY-8dE",
+                        "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/22/244234.jpeg"
+                    }
+                },
+                {
+                    "title": "Largest-ever Asian Games to open Saturday after pandemic-induced delay",
+                    "snippet": "After being postponed for a year due to the COVID-19 pandemic, the 19th edition of the Asian Games will open in the Chinese city of Hangzhou on Saturday, ...",
+                    "publisher": "코리아타임스",
+                    "timestamp": "1695356460000",
+                    "newsUrl": "https://www.koreatimes.co.kr/www/sports/2023/09/829_359822.html",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/k9Ke5P-gvebEHXvUAhRNcWuosJuil8-pHwb1vf54WNGbZPueSZhi-cZGkjlW_y8uY0oiqbNxZGzW9KOME0xrr-OjupeSecQ9lDm1fjvo5VbTfKbniNSb_CtZWySyDm20RyKERbyTjJJVCMQVzZNl",
+                        "original": "https://img.koreatimes.co.kr/upload/thumbnailV2/6de3032693bc44ffb0a0f092354e13d4.jpg"
+                    }
+                },
+                {
+                    "title": "Korea looks to shine as Asian Games begins this weekend",
+                    "snippet": "The Hangzhou Asian Games starts in Hangzhou, China on Saturday, kicking off two intense weeks of competition as the continent's biggest sporting event ...",
+                    "publisher": "The Korea JoongAng Daily",
+                    "timestamp": "1695346119000",
+                    "newsUrl": "https://koreajoongangdaily.joins.com/news/2023-09-22/sports/more/Korea-looks-to-shine-as-Asian-Games-begin-this-weekend/1875132",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/4e9U9SnfgJQ_9eoNOtCAn3s5H3QbXFnazSX0DQUpHf179lKV3KtRZJv819q5MfmbMVx-yhrm9fXX3x3Cf5SKDJHpCr6CO7RginROu3vUdaQDA2ooD1FKllcWe5mP1UZTQquNMxmnkQjt5pB61M5sJOrT3qgV-BZHLBn1qvQ3",
+                        "original": "https://koreajoongangdaily.joins.com/data/photo/2023/09/22/c343b34e-b789-41ae-a79d-4fa187ddc7a4.jpg"
+                    }
+                },
+                {
+                    "title": "Asian Games offer a few sports you may not recognize",
+                    "snippet": "(UPDATE) If you're bored with day-in, day-out sports like basketball or swimming or volleyball, then check out the Asian Games when they open officially on ...",
+                    "publisher": "The Manila Times",
+                    "timestamp": "1695399420000",
+                    "newsUrl": "https://www.manilatimes.net/2023/09/23/sports/asian-games-offer-a-few-sports-you-may-not-recognize/1911126",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/mo9u5oV_TlIYcOx-S-RbgzpXCUHC5ouHLSJddCkbcD_m0pAlFhQEPVt_Gm2B-D-Tbf_gyiCKh9LYVw2CNW_OKo__YtqvFcXKX0qCC0KoGHkI2z5o5DZBjCGsO3F9hpCfMmfxqCiTAg",
+                        "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/21/243896.jpg"
+                    }
+                },
+                {
+                    "title": "Qin Haiyang, Yang Liwei announced flag bearers for Chinese Asian Games delegation",
+                    "snippet": "Swimmer Qin Haiyang and basketball player Yang Liwei were announced on Friday as the flag bearers of the Chinese delegation at the opening ceremony of the ...",
+                    "publisher": "CGTN",
+                    "timestamp": "1695353797000",
+                    "newsUrl": "https://news.cgtn.com/news/2023-09-22/Chinese-Asian-Games-delegation-announces-flag-bearers-1niJAQKTMpa/index.html",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/91G-PH6uCUispm8mtoi6jn9ysSmLrDiP3w_O9Tc7Ns0FUTIcnYfR0YfSxo4OwrPiieq56b0ZwqDau_--TIYultNYqoeeN936BcIkqae_srY0I0yqE2sqPjEfCHu2i7elxtHlhnHiaFL5T_hTP6fze8weAyifdSFKucKhM6O7BVmnifBdn4M1fTI7VFP4vD7lRcuHu5OAZx-nj68ryJR5SY2ytreWNaVyTTHOrHM3dZQ_KDmSw0WanD5qU44LYUMIGU51UZkF17JQ5gBTnDs",
+                        "original": "https://news.cgtn.com/news/2023-09-22/Chinese-Asian-Games-delegation-announces-flag-bearers-1niJAQKTMpa/img/2654abfd8bd94230b34077af724bc10e/2654abfd8bd94230b34077af724bc10e.jpeg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "BI works with other gov'ts to curb entry of foreign fugitives",
+            "snippet": "MANILA – The Bureau of Immigration (BI) on Friday underscored the need for continuous collaboration with other governments to prevent foreign fugitives from ...",
+            "publisher": "pna.gov.ph",
+            "timestamp": "1695381120000",
+            "newsUrl": "https://www.pna.gov.ph/articles/1210407",
+            "hasSubnews": false
+        },
+        {
+            "title": "Marcos: New factory in Cavite to generate 5K jobs",
+            "snippet": "GENERAL TRIAS, Cavite: More than 5000 direct and indirect jobs await Filipinos following the inauguration of Unilever's new factory in the province, ...",
+            "publisher": "The Manila Times",
+            "timestamp": "1695398880000",
+            "newsUrl": "https://www.manilatimes.net/2023/09/23/regions/marcos-new-factory-in-cavite-to-generate-5k-jobs/1911376",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/ONKFkvrsVyEIDi3LFhSuGU61QDca5b5nWo8AYBSKvzi73xTkFVdN9Zyn2_60C-WyKvwZHw-_SmwBgLr7dzjdcoPgBRxRBfhoEejjFj30DgDpemAP_E39X61O0hmrBkybv7jUuKeK6g",
+                "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/23/244621.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "EJ Obiena embraces responsibility as Asia's top track and field athlete",
+            "snippet": "HANGZHOU, China—EJ Obiena will enter the cavernous Hangzhou Olympic Centre Stadium and valiantly wave the Philippine flag on Saturday's opening ceremony.",
+            "publisher": "Inquirer.net",
+            "timestamp": "1695376020000",
+            "newsUrl": "https://sports.inquirer.net/530084/ej-obiena-embraces-responsibility-as-asias-top-track-and-field-athlete",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/iLfNwUwT_tStnTu4EfYHgPRcOmLs2YqSkhhS0dnX22v6c4wNRZ_QaQ0R9yzGFdC_o33acLiUvVPebcM9S4rcWwJx_RWmXne8Pab9BWDrXzW5UCFKHCe2Sx0Jz1SF7BnvXyFGbN76cAc7EPk",
+                "original": "https://sports.inquirer.net/wp-content/blogs.dir/2/files/2023/09/000_33TR9MG.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Asian Games: Eala, Gonzales, Alcantara motivated to represent PH",
+                    "snippet": "Playing for the Philippines is of great importance for Alex Eala, Ruben Gonzales, and Francis Casey Alcantara.",
+                    "publisher": "ABS-CBN News",
+                    "timestamp": "1695307320000",
+                    "newsUrl": "https://news.abs-cbn.com/sports/09/21/23/asian-games-eala-gonzales-alcantara-motivated-to-represent-ph",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/f_cwsWJVeQT38VOZOpcZMB2OCE9vtd7upoad0zU4eu_rKXuZdT3Uv14_FMt6qhx65ZXO9GicI8hwT2-KRULUpP0RpO1sNbUfrVnV3WGEDPHz62VHAAOzO4SPqnKXeV7nXa00QayUS5YZQKDJ2IlC6sU2e4QU2pM",
+                        "original": "https://sa.kapamilya.com/absnews/abscbnnews/media/2023/sports/09/21/20230921-asian-games.jpg"
+                    }
+                },
+                {
+                    "title": "Team Philippines officially joins Asiad family in simple ceremony",
+                    "snippet": "HANGZHOU – The Philippines formally joined the 19th Asian Games family on Thursday when the country's tricolor was finally raised inside the Athletes ...",
+                    "publisher": "Sports Interactive Network Philippines",
+                    "timestamp": "1695298784000",
+                    "newsUrl": "https://www.spin.ph/multisport/asian-games/team-philippines-officially-joins-19th-asian-games-family-a793-20230921",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/_CLmHN6lOulUrovs9Qc0ThH-E-9D24fBxmNAMz6dN3c0-_qsPt9fHLPcyq34xloqszBUlyCGpCJ1Vo8_se_YtlMyvHydYjiStwMF8Y8lFUhINQYGuouwzC5H6uCbcLCsK7LmPnnt_hqh6Nd9WYepGCo8V2GpaAQk9xxSG2zkHHM",
+                        "original": "http://contents.spin.ph/image/resize/image/2023/09/21/bambol-tolentino-asiad-ascano-2-1695296703.webp"
+                    }
+                },
+                {
+                    "title": "POC pins Asian Games bid on men this time",
+                    "snippet": "HANGZHOU, China—Women power was at the heart of a magnificent Philippine finish back in the 2018 Asian Games (Asiad) in Indonesia.",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695413700000",
+                    "newsUrl": "https://sports.inquirer.net/530139/poc-pins-asiad-bid-on-men-this-time",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/NmSpMZX6z8s2P7w3nN4fpSWtSu8FVyrpXbjEU45EFaP0h-vryDal4Rx__qOED0oJtbBQ6UQcAGR2XQOsfTjx0C17yO15TVkRMAseZI1OplpgUQxOGXv7kLvCIJmEPFMTEDdTnH6vwrYA1Ac",
+                        "original": "https://sports.inquirer.net/files/2023/05/Sports472756-scaled-e1684247724779.jpg"
+                    }
+                },
+                {
+                    "title": "Philippines forecast: 4 gold medals",
+                    "snippet": "Team Philippines' ambitious gold medal forecast for the 19th Asian Games remained the same: minimum of four. That's what Philippine Olympic Committee ...",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695398400000",
+                    "newsUrl": "https://www.philstar.com/sports/2023/09/23/2298354/philippines-forecast-4-gold-medals",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/zCm8Humnzx-ZrYKcY0oWN8G_dqrKj7BsS-TT9NEr3F7hiIY8W7RTwSR96jltC7PftigUsjZ_77-kx14V52k1ENEmbfaQATLp9VaILpkMu3u1mxpfJbfj-7fEFX2t5Rsf8Dw6iMAmRKZslXns_WWMddG2aPBd6Dp0uMKC3WsOlsqNmwZyS-E",
+                        "original": "https://media.philstar.com/photos/2023/09/22/abraham2022-09-1822-39-39_2023-09-22_23-45-17181_thumbnail.jpg"
+                    }
+                },
+                {
+                    "title": "Bambol Tolentino on Abueva inclusion in Asian Games team",
+                    "snippet": "Bambol Tolentino on Abueva inclusion in Asian Games team.",
+                    "publisher": "Sports Interactive Network Philippines",
+                    "timestamp": "1695297652000",
+                    "newsUrl": "https://www.spin.ph/basketball/fiba/bambol-tolentino-on-abueva-inclusion-in-asian-games-team-a1373-20230921",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/FAhG3xzjICC9KY1fKF4spgI4ya5KBHlNzoqa7K3Cm-0674uREalxTjUNJhUaOhpakGmTw_k6Wh1Tj9mKVX7U71QYCrfb6fbvJHZSIjf4Mo2aN4MruDN3bMYCASk4BwegQuEhxI2-alD2kW019VPAa7dd3hc95esvXy6Q5r1s",
+                        "original": "http://contents.spin.ph/image/resize/image/2023/09/21/bambol-tolentino-asiad-ascano-1695296704.webp"
+                    }
+                },
+                {
+                    "title": "POC remains upbeat over Gilas appeal at Asian Games",
+                    "snippet": "HANGZHOU, China—Hope springs eternal for the inclusion of four key players to the Gilas Pilipinas roster for the 19th Asian Games. Though time is quickly.",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695330900000",
+                    "newsUrl": "https://sports.inquirer.net/530002/poc-remains-upbeat-over-gilas-appeal",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/F1p7hqUKxSDOh47fybmSvv_K1Yh0W_Vx2AoLgMkIvZEyz0JZgrUAvEc2VbTd7jjZMnJN3Mg6Teya-nfuLlJi_XfbNptgyuOzCZk5N23l5pI2mzPGG8DW2SeU0D2T7mE0mlvtEEWqDQmtYDofN2bdFtaTagUmpD3PDKtus_KYKMOwr2V7KyCKdh_7",
+                        "original": "https://sports.inquirer.net/files/2023/09/IMG_0354_Gilas-mens-and-womens-open-practice_Calvin-Abueva-scaled.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Salceda favors law enforcement, not ban, on Pogos",
+            "snippet": "It's like burning an entire house just to kill a rat. Albay Rep. Joey Salceda, chair of the House ways and means committee, on Friday expressed reservations ...",
+            "publisher": "Inquirer.net",
+            "timestamp": "1695416100000",
+            "newsUrl": "https://newsinfo.inquirer.net/1835676/salceda-favors-law-enforcement-not-ban-on-pogos",
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "NEDA chief backs recommendations on POGO ban",
+                    "snippet": "MANILA, Philippines — The National Economic and Development Authority (NEDA) has expressed support for the recommendation of senators to ban Philippine ...",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695312000000",
+                    "newsUrl": "https://www.philstar.com/headlines/2023/09/22/2298042/neda-chief-backs-recommendations-pogo-ban",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/0ycsyTbeskFQffHHniM5Y3C7byrp3ip3J6YCqCIBMbOH8x3D23onrYESFf8CSPwQYtoYt6eC0HNweEXb8ItiCa_TL0Wqy7Pe9ANUp-cPEJTmVpNZ2XRb9lclwrnxGsssLOzRv8ybQQ0IrOa420Ldha4QcZDCqP2M8k-qcNec69Ru",
+                        "original": "https://media.philstar.com/photos/2023/09/21/122023-07-1221-59-43_2023-09-21_21-41-03698_thumbnail.jpg"
+                    }
+                },
+                {
+                    "title": "POGO shutdown can attract good investments for PH – NEDA",
+                    "snippet": "Metro Manila (CNN Philippines, September 21) — The National Economic and Development Authority (NEDA) said the expulsion of Philippine Offshore Gaming ...",
+                    "publisher": "CNN Philippines",
+                    "timestamp": "1695296341000",
+                    "newsUrl": "http://www.cnnphilippines.com/news/2023/9/21/POGO-ban-good-investment-NEDA-.html",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/o4t-bmLnvrHSMh7Sc6Wy657bgioGBHIgVB8DP2TVGo7O03oxULBRLTn55zDEdd9V7kMv9i9XjeIjVG_h_Ptar6r2ogpIVKHzeYLzUw82fSDmUjcupyf8Kba5uMTTNRRo2z93tVKPE4hrw8Cft9h87hJ9ARRvD4EgnOBtBsm3sWGggbZ1wHX9bLmwxtGlzPLLdRNaQYGt_2hv1bmnL9DWCnbB5djuTRi9DPnAp_g",
+                        "original": "http://www.cnnphilippines.com/.imaging/default/dam/cnn/2019/08/19/POGO-Operations-3_CNNPH.jpg/jcr:content.jpg?width=750&height=450&crop:1:1,smart"
+                    }
+                },
+                {
+                    "title": "Neda chief supports banning Pogos, agrees on 'social costs'",
+                    "snippet": "Socioeconomic Planning Secretary Arsenio Balisacan on Thursday said he would recommend to President Marcos the permanent ban on Philippine offshore gaming ...",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695333000000",
+                    "newsUrl": "https://newsinfo.inquirer.net/1835158/neda-chief-supports-banning-pogos-agrees-on-social-costs",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/8hl0oXW2-mJv4hIsIIcmJvBfi473Grsm_uuHPQqqF3MWCvuwEB-8mTBVzy8Md8iw78rSTso0lh0eGbuZVag6jCnJ8QWzR1nzpN9TiHDsQbEqoA",
+                        "original": "https://newsinfo.inquirer.net/files/2023/01/418603.jpeg"
+                    }
+                },
+                {
+                    "title": "Simple law enforcement to solve POGO woes – lawmaker",
+                    "snippet": "Banning Philippine offshore gaming operators is unlikely to happen any time soon because doing so requires legislation, House committee on ways and means ...",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695398400000",
+                    "newsUrl": "https://www.philstar.com/headlines/2023/09/23/2298380/simple-law-enforcement-solve-pogo-woes-lawmaker",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/wbnjEkVT9Atj_HinxpdlE8JaQwVzRIJMEHiYX4SNl6glzmRNAoZNqCMxwg8439poGKazBgQSKPuT9QbiGg-7w5svZptQgAH-V329XJ7e0Ao392FvLF6EEIH5T5BRT9CJOtGMcfPvpWGjjkrRt5NHuos5QeE8Xf7efpr4RX-3pcrLOCo",
+                        "original": "https://media.philstar.com/photos/2023/09/22/pogi2022-09-2518-38-20_2023-09-22_23-00-16218_thumbnail.jpg"
+                    }
+                },
+                {
+                    "title": "NEDA backs proposal to ban POGOs",
+                    "snippet": "MANILA – Socioeconomic Planning Secretary and National Economic and Development Authority (NEDA) Director General Arsenio Balisacan on Thursday expressed ...",
+                    "publisher": "pna.gov.ph",
+                    "timestamp": "1695291960000",
+                    "newsUrl": "https://www.pna.gov.ph/articles/1210345",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/jc49tRsRfOnIxZTn80FiZL3uQIvKnIy9vQhuXWvA33YevWlXcJMoBGSDLp__jlhhb4Hd_IviA_WsJvSMKBCAJkcgFFsfBAuMixdW1lyqeWY",
+                        "original": "https://files01.pna.gov.ph/ograph/2022/09/30/pogo.jpg"
+                    }
+                },
+                {
+                    "title": "Neda backs Senate proposal to ban Pogos, says social cost is high",
+                    "snippet": "MANILA, Philippines — National Economic Development Authority (Neda) Chief Arsenio Balisacan on Thursday said that the agency supports the Senate panel.",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695288060000",
+                    "newsUrl": "https://newsinfo.inquirer.net/1835000/neda-backs-senate-proposal-to-ban-pogos-says-social-cost-is-high",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/nlS3RPiIEbcb2EQcF6h_4w87VmQKCMoeyHabKNweTh9kIeriYto8QZeKZMzi9_elNIkkxOrfmFiark-zyACBNw3-aIOujPqk_dISANNigaCUHiA6owvXzAPNPpgAZBzSlZZ9Xy_kjB3i8i0",
+                        "original": "https://newsinfo.inquirer.net/files/2022/09/Gambling-pogo-filephoto-620x349.jpeg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "University of San Carlos welcomes new president with resolute commitment to excellence| SUNSTAR",
+            "snippet": "ON SEPTEMBER 15, 2023, The University of San Carlos (USC) welcomed its new president, Fr. Francisco Antonio T. Estepa, SVD, Ph.D., who has pledged to lead ...",
+            "publisher": "SunStar Philippines",
+            "timestamp": "1695362144000",
+            "newsUrl": "https://www.sunstar.com.ph/article/1973459/cebu/feature/university-of-san-carlos-welcomes-new-president-with-resolute-commitment-to-excellence",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/63y0fkWdddcvqTCWOa0UIy6A-PzxTZzd_uqNphfrOtU69yTJxhVlQSNcmArurQyIXWp1XpFPH8as1rcAWaAyHUyl186-YDrd_C4HrgzM1X4aQBBRTfwNnhhC",
+                "original": "https://www.sunstar.com.ph/uploads/images/2023/09/22/466112.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "PH vows to strengthen access to information in ASEAN meet",
+            "snippet": "MANILA – The Philippine government reaffirmed its commitment to further improving Filipinos' access to information and combatting disinformation during a ...",
+            "publisher": "pna.gov.ph",
+            "timestamp": "1695376500000",
+            "newsUrl": "https://www.pna.gov.ph/articles/1210402",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/QGD6BlVS7r7IuASJ6Q3-HpqukkTyOltAGckSa-bddFmiipeFLGa_RWga5nXp3wyE8owCPgBqE23rIfpsWsw5sp3wioDRfWrfHOCMsR4su7_C6JXw",
+                "original": "https://files01.pna.gov.ph/ograph/2023/09/22/q2a1497.jpeg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Ukraine hits HQ of Russia's symbolic Black Sea navy",
+            "snippet": "One soldier is missing, says Moscow, after a missile hits a flagship unit of the Russian navy.",
+            "publisher": "BBC",
+            "timestamp": "1695404614000",
+            "newsUrl": "https://www.bbc.com/news/world-europe-66887524",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/1dY1vPFmNmnFWBR0NwB23Ic33vEu-4FOtdHvhMk7squHmVEWSFX7U2Y_Q30Gvtd04j-WXkbSR3Zebb5xHH0FpCVSjpZEJfo-fPs4znAuOpuWwi5I9Tl5nuqWhxAs0sOHWfLupFfNzCEUrgBnTZGFDiGLMM5E",
+                "original": "https://ichef.bbci.co.uk/news/1024/branded_news/1734C/production/_131225059_sevastopol.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Ukraine hits Russian naval HQ in missile attack on Crimea",
+                    "snippet": "KYIV, Ukraine - Ukraine claimed responsibility for a missile attack that struck the headquarters of Moscow's Black Sea fleet in annexed Crimea Ukraine ...",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695416100000",
+                    "newsUrl": "https://newsinfo.inquirer.net/1835768/ukraine-hits-russian-naval-hq-in-missile-attack-on-crimea",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/dNXLRUho_rlO9j7knutR8mbs0UkhKaPRSGaLubry2XeDHXIdQPAd1DkFV25f44QByj-uCHbd4IZKkSJ4e0iZzD2r7nS_bEIOCWshuf3sl03rBFtAJHV0qiTQFXeR",
+                        "original": "https://newsinfo.inquirer.net/files/2023/09/000_33W677D-scaled.jpg"
+                    }
+                },
+                {
+                    "title": "Russia's war in Ukraine: Live updates",
+                    "snippet": "Ukraine has launched a missile attack on the headquarters of Russia's Black Sea Fleet in Crimea, the Russian-appointed governor said. Follow here for live ...",
+                    "publisher": "CNN International",
+                    "timestamp": "1695416880000",
+                    "newsUrl": "https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-22-23",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/G__9cocxCMe90Rhe0Uh7cgJcCU9FedXMNvDaeBQ7Zu3X6rtPL8mwKwy1HPrao-jgofpmkNPB2SijFnO9IFApGweNzX1HzjSx7Svw0u41peR-5bJ2kSpMhvjCVN5FpzPOgzNqCYXdEK9TPiyk4w",
+                        "original": "https://cdn.cnn.com/cnnnext/dam/assets/230922081456-sevastopol-vpx-super-tease.jpg"
+                    }
+                },
+                {
+                    "title": "Russia hits Ukrainian energy facilities in biggest attack in weeks – Kyiv",
+                    "snippet": "KYIV - Russia pounded energy facilities across Ukraine on Thursday in its biggest missile attack for weeks, firing what Ukrainian officials.",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695317400000",
+                    "newsUrl": "https://newsinfo.inquirer.net/1835251/russia-hits-ukrainian-energy-facilities-in-biggest-attack-in-weeks-kyiv",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/OdRlLchTZ0fEkKgrUi0Ex2noEyssPNmvK0YphY9xvt0stms-4gzBXGj2Yv6Iz0WqsswkHJGMvGE23kWqJQafoGYak0ZUFsuJqnsD_zNoM10ZtPr4xbr46pPu-2DQQU_0uC3aC4k-skaow0-fkRBKjWmTn6cPipMWPsBrPn6C-SLBgvgkewImtmFUhD43Zn4kBoku",
+                        "original": "https://newsinfo.inquirer.net/files/2023/09/2023-09-21T095754Z_1_LYNXMPEJ8K0BT_RTROPTP_4_UKRAINE-CRISIS-ATTACK-RIVNE.jpg"
+                    }
+                },
+                {
+                    "title": "Kyiv warns of 'difficult' winter as Russia hits Ukraine cities",
+                    "snippet": "KYIV, Ukraine - Ukraine on Thursday warned that difficult winter months lay ahead after a \"massive\" Russian missile barrage targeted civilian infrastructure ...",
+                    "publisher": "Manila Bulletin",
+                    "timestamp": "1695301633000",
+                    "newsUrl": "https://mb.com.ph/2023/9/21/kyiv-warns-of-difficult-winter-as-russia-hits-ukraine-cities",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/AsHq98gU6HzifczTzghIG1IIGIs1fFyYsd1a2LTosSSBkasxtw1JlpPoyCWDePtpf4ZOdRQ2bPPaYraM26Xupdsr7pRny7e0H1sMUZIdkTq11AZtFVqp0-QHvbkxr-UL1D0seijNw8h9eB5ebWhwvYhQlCuwv98LjPBKDzpq_kw9WSm1N9Pytg",
+                        "original": "https://storage.googleapis.com/mb-mkt-neo-prod-1-uploads-2/media/IMG_3307_1ea4d2ce36/IMG_3307_1ea4d2ce36.jpeg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Bangko Sentral chief: More rate hikes likely",
+            "snippet": "MONETARY authorities are not done hiking its key interest rates and a likely increase in November might not be the last for the current tightening cycle, ...",
+            "publisher": "The Manila Times",
+            "timestamp": "1695400560000",
+            "newsUrl": "https://www.manilatimes.net/2023/09/23/business/top-business/bangko-sentral-chief-more-rate-hikes-likely/1911366",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/_w6Ejz0Z21efUkFBivKSJfP83j0gKuX9nPDBZkJG6-HM5oSkX0rSmTH1yLg_CnilFfEOIQJt6mgLT-xEh5JR5pxi_No0BkzsoRL-5TcRtX1eR7G0-QBw_bLh86868oeRTKkYYf5njQ",
+                "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/23/244615.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "PH may cut interest rates in second half of 2024: Fitch subsidiary",
+                    "snippet": "MANILA — The Bangko Sentral ng Pilipinas (BSP) may cut interest rates in the second half of 2024, a subsidiary of Fitch Solutions said Friday.",
+                    "publisher": "ABS-CBN News",
+                    "timestamp": "1695349980000",
+                    "newsUrl": "https://news.abs-cbn.com/business/09/22/23/ph-may-cut-interest-rates-in-second-half-of-2024-fitch-subsidiary",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/GDeiddq431Wo-bD-dXku3_JIH1G2uJoARLh5_WaID8ptjv042-LPh8w6hR_a6TGKCDk8n4J7wWbfBXuP_CN7OOc6kFajQ7TKB3jOO7AtfJC1VbgkYpGfu8ntNL20dNXHxKBoEB25p9Bx4oTFH6VGBTsH83u7fZ6no9Zq1rm_ZXs1viDJgQ",
+                        "original": "https://sa.kapamilya.com/absnews/abscbnnews/media/2023/life/02/20/20140421-bangko-sentral-jc-a01-a8597.jpg"
+                    }
+                },
+                {
+                    "title": "BSP extends pause on rate hikes",
+                    "snippet": "By Keisha B. Ta-asan, Reporter. THE BANGKO SENTRAL ng Pilipinas (BSP) maintained key interest rates for a fourth straight meeting on Thursday but signaled ...",
+                    "publisher": "BusinessWorld Online",
+                    "timestamp": "1695314044000",
+                    "newsUrl": "https://www.bworldonline.com/top-stories/2023/09/22/547069/bsp-extends-pause-on-rate-hikes/",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/PsV3vFWMi7b292DBk-spPWCM_yoNL-7PurIcoiKXWbn7h7p87LlQOZDOqyIVQIoJe2LUKyG58Xixni7nzx8Q9rRg2zrYZZ5i8xtu4tkh06wyXENmmvjM6Yw0kgtESF1Lx9jOmQ",
+                        "original": "https://www.bworldonline.com/wp-content/uploads/2023/09/fruits-vendor.jpg"
+                    }
+                },
+                {
+                    "title": "‘Next rate hike may not be last’",
+                    "snippet": "A possible rate hike in November may not be the last with the expected higher-for-longer interest rate environment amid more upside risks to inflation, ...",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695398400000",
+                    "newsUrl": "https://www.philstar.com/business/2023/09/23/2298277/next-rate-hike-may-not-be-last",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/itPh1E2Z2zKTjnUKbF5qMSXPdxav_DNsmno_yOzzc6g8ZHEoARRcxVPv0TBJxRm5v0EcY0GJb9Zvtm9TX2O6UfjHAeB9CeA2ksUAYD5qznlYlBLhQ_GVZ6wrHQHE-b7GGkqTuMye1ZPFhIdofJTbDjUobLZu9WIN7gz31H6EJOzBc2Ij4XTyI5pZM8bj0iHRPVgi8qqDIGN42nx3aF1gz2U",
+                        "original": "https://media.philstar.com/photos/2023/09/22/bsp-main-office2023-06-2813-05-102023-08-1023-35-53_2023-09-22_18-44-13833_thumbnail.jpg"
+                    }
+                },
+                {
+                    "title": "BSP hikes inflation outlook, hints at November rate increase",
+                    "snippet": "The Monetary Board of the Bangko Sentral ng Pilipinas (BSP) on Thursday hiked its inflation outlook for the year due to a number of factors, ...",
+                    "publisher": "GMA News Online",
+                    "timestamp": "1695282554000",
+                    "newsUrl": "https://www.gmanetwork.com/news/money/economy/882843/bsp-hikes-inflation-outlook-hints-at-november-rate-increase/story/",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/6OVeQs0tfQ_9wIb0HeY_xK6lt2DY7lATEY9-tEUHdZcKZF3GEePjKzm1fY6D_zjF3WCLhjCghnGPylwQstmWNf0nw4R9KvIoqvP8JfhjAeLf2Hp3YjWLhy-kQWQV_AL3aA",
+                        "original": "https://images.gmanews.tv/webpics/2018/01/BSP2_2018_01_28_15_36_40.jpg"
+                    }
+                },
+                {
+                    "title": "Impact of PHL monetary policy tightening to be felt until next year — BSP chief",
+                    "snippet": "The economic impact of monetary policy tightening by the Philippine central bank will have a long lag and be felt into next year, Bangko Sentral ng ...",
+                    "publisher": "BusinessWorld Online",
+                    "timestamp": "1695350971000",
+                    "newsUrl": "https://www.bworldonline.com/top-stories/2023/09/22/547210/impact-of-phl-monetary-policy-tightening-to-be-felt-until-next-year-bsp-chief/",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/vA3h46hXXUP1bmiEU4KoA8_8YlDJEt95KDlBbIArxH7i7SDyqvqiqqTzOj82lHKFoVMWkrqfrtFv0l5LjDsed7Yzt3vXexXo8BK2ktBbcFPfi8jjkjd0Ecz8gkt1hI9ilndUO0Gw25Mm",
+                        "original": "https://www.bworldonline.com/wp-content/uploads/2023/09/Eli-M.-Remolona-Jr.jpg"
+                    }
+                },
+                {
+                    "title": "BSP holds rates steady",
+                    "snippet": "Monetary authorities are expected to deliver a rate hike in November after maintaining a hawkish pause for four straight rate-setting meetings, according to ...",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695312000000",
+                    "newsUrl": "https://www.philstar.com/business/2023/09/22/2298021/bsp-holds-rates-steady",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/5JWicrI_wVU4iP6geqvSHbcJLpNYCcV-kPKgJ_GkhcXj3FXoaW08GrjmpPooVcMQdvHBAWguMDwQBfttoeztN35-VLskeAxaGNQoIRWn6NdAVjcz48s0AAgInLnsqQITxiJ8Wu-WuAj7pkH8CEGnD5POowxNpVNRu2K2svGALAryQw",
+                        "original": "https://media.philstar.com/photos/2023/09/21/bsp2020-11-0619-05-53_2023-09-21_20-18-54961_thumbnail.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Tecno's first clamshell foldable Phantom V Flip is now official - GSMArena.com news",
+            "snippet": "Tecno just introduced its Phantom V Flip – the company's first clamshell foldable smartphone. It has a circular external OLED screen with two cameras and an ...",
+            "publisher": "GSMArena.com",
+            "timestamp": "1695367802000",
+            "newsUrl": "https://www.gsmarena.com/tecnos_first_clamshell_foldable_phantom_v_flip_is_now_official-news-59990.php",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/OECLMvBpWsyn4ijL-3TWm1Kg1VMf348bKNyqLTrC1gqFUbpp66PttV6veJ65lOcXmdpgeK83IAqLW6-8P0jy3RW0dwXD-TF-YpS8c-K0o1erfkhS42jX7T2Ad2YRnNDRgiyJS4HkmHOyNJLX6-QF6dWCW07TQDVOedtM",
+                "original": "https://fdn.gsmarena.com/imgroot/news/23/09/tecno-phantom-v-flip-ofic/-1220x526/gsmarena_001.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "TECNO Phantom V Flip review: Should you buy it?",
+                    "snippet": "The Phantom V Flip is one of the first aggressively priced foldable phones on the market, but the numerous compromises show there's a big difference between ...",
+                    "publisher": "Android Authority",
+                    "timestamp": "1695373625000",
+                    "newsUrl": "https://www.androidauthority.com/tecno-phantom-v-flip-review-3362962/",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/kRl11Prycjp_FNoIsDHqbtW4m7x-mSvKDX4aUlxklbJ9gZLX5RStHeRS_x6V-baD1qGcNqtqeWSRBh-GXYVj0l6owzteYUmZ2oh_dje1LB0qNmD1BWC_vGugFrAPqJ8Rdc6Y0699QH6ZaX64Ao7aWtxtapjoS9XDekSKZSNKyKk01PructXeU9Ek-A",
+                        "original": "https://www.androidauthority.com/wp-content/uploads/2023/09/TECNO-Phantom-V-Flip-cover-screen-window-resized.jpg"
+                    }
+                },
+                {
+                    "title": "You’ve never seen a folding flip phone with a screen like this",
+                    "snippet": "The Tecno Phantom V Flip folding phone has a circular cover screen, and it looks unlike anything else you've ever seen before.",
+                    "publisher": "Digital Trends",
+                    "timestamp": "1695367850000",
+                    "newsUrl": "https://www.digitaltrends.com/mobile/tecno-phantom-v-flip-hands-on/",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/GnOnFvzLcuftGGagj1pUJEKHMPyzfVZCPkrmQJ4QfFUCW50TW9UMYOZsLqL23KzKjjVX2WINnoggmbeKlFbyuXbce4NXQmuPF2Ji5s_OYg8Y8_H-sR2l_h_Aib7nyc5PJ9knwoTcB43wrp5J4nJtrMyv_moSyVQ97d3JWA",
+                        "original": "https://www.digitaltrends.com/wp-content/uploads/2023/09/tecno-phantom-v-flip-other-flips.jpg?p=1"
+                    }
+                },
+                {
+                    "title": "The Tecno Phantom V Flip is here to bring folding phones to the budget masses",
+                    "snippet": "Tecno's first entry to the flip-style foldable is a promising budget option.",
+                    "publisher": "Android Police",
+                    "timestamp": "1695367800000",
+                    "newsUrl": "https://www.androidpolice.com/tecno-phantom-v-flip-launch-hands-on-b/",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/JpCtLM3smwNcv9HvYfpA8ClPa01lAVsStGqWs6l8-Oyyu33IQkdl_fwlsZuJM3G8ALWXTJ2eHZI6qcdORG0NU-T1uzt2MOS_EM_fI8EW6QVhhy_cjWiFisp8TfUmG5kDzBxpZOWeRbwBr_OKTGWPXZbtkk-0v-YRq3Dy7niL",
+                        "original": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/09/tecno-phantom-v-flip-back-1.jpg"
+                    }
+                },
+                {
+                    "title": "Tecno Phantom V Flip is nearly half the price of Galaxy Z Flip 5 with circular outer display",
+                    "snippet": "After launching the Phantom V Fold earlier this year, Tecno is today launching the Phantom V Flip as its first flip phone, and, like its big brother, ...",
+                    "publisher": "9to5Google",
+                    "timestamp": "1695391560000",
+                    "newsUrl": "https://9to5google.com/2023/09/22/tecno-phantom-v-flip-specs-price/",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/Qb4k308RvrVugBiod7cQbiyW_MyHijvCZIGHg3Ecg5QDeuedfJuVRbhDZuk6hdFCzKS-hQfmWYNv5U8_Cs37wfdgJ_zIgZVzat5QHVf1icTjmeZ3eD8nYH8-k3NC0yMMur5c0zn_DDM6d9sNKdX5vhss1_wPQTLjFXMcc2ot5TqvCyvb",
+                        "original": "https://9to5google.com/wp-content/uploads/sites/4/2023/09/tecno-phantom-v-flip-1.jpg?quality=82&strip=all"
+                    }
+                },
+                {
+                    "title": "Tecno Phantom V Flip 5G Foldable Phone Launched Under Rs 50,000",
+                    "snippet": "Tecno has launched the new Phantom V Flip foldable phone in India coming at under Rs 50000. Check out the price, features, and more.",
+                    "publisher": "Beebom",
+                    "timestamp": "1695384964000",
+                    "newsUrl": "https://beebom.com/tecno-phantom-v-flip-5g-launched-india/",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/psTW2dLjb5R1Kc0UpYemErw9pT-fJBPgQrxABDU_t7mhlLxHpvUwc1fYlYdRRnqYkSqJDadSIJ53OVUotGjXXrFcdPqg3Xt18AjE-G-psiuFQ0wknBPZrL9hS_bQvH3NTzv4TUQHaUM02AVmBXuX4yI8Zp92y9FF5akkZ5eS",
+                        "original": "https://beebom.com/wp-content/uploads/2023/09/tecno-phantom-c-flip-5G-launched.jpg?w=750&quality=75"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "When should you buy Medicare supplemental insurance?",
+            "snippet": "If you're planning to purchase a Medigap policy, buying coverage at these times makes the most sense.",
+            "publisher": "CBS News",
+            "timestamp": "1695329317000",
+            "newsUrl": "https://www.cbsnews.com/news/when-should-you-buy-medicare-supplemental-insurance/",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/McneoIeTCFu4shZvILHZQntflT0cgNbEMI9ZpO7gtcSw9G7xTOSgGIjlNRBdKqOvX4nrEjtTPK-jlF7MQazUgLmeDhrlHQiPUcbi9oS3UMvNpakLEBnBEEXRIW6kg2x25bBcEVkzF3jaVkCB0u8p2k_oo3tZ9heyYOJ-0_xvKk86yYdPXW2pMh1OqgzyaylUrLcKv-7nhjEORUf_Pa3Ue1pGpc6nHE8tZdHQIrHq5NJDfNd6XrDONfnkoU_whFmxD7yOLR3DYTUo51rIicDQuO1h78fT0xaObiVuD1tIePRNjpHILrXn",
+                "original": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/21/124dbdd4-e4ea-4077-8623-3c9d841c267b/thumbnail/1200x630/a9028434400165bb0ca8944601a8467b/gettyimages-1173091550.jpg?v=f5251b37272e6b1bc4e5456ab4445a67"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Brownlee is like our 'kodigo,' says Gilas coach Tim Cone",
+            "snippet": "Gilas Pilipinas interim head coach Tim Cone was pleased with the way his boys performed against Korean club Changwon LG Sakers despite having limited ...",
+            "publisher": "ABS-CBN News",
+            "timestamp": "1695395700000",
+            "newsUrl": "https://news.abs-cbn.com/sports/09/22/23/brownlee-is-like-our-kodigo-says-gilas-coach-tim-cone",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/gXXrf-xnKOBZ3mp-gGSpaFEGqEink_MNHW8Cr1Od7kLPiovox3jOzRCtC03M5rtDuJuN2c--Rjr-SNY_hXyLtd-PTQ-p6rxz9fVHvzbZO0QkI522JqREUUyxI6TSZxEAdKDsP9zpqWHcJ_FfTsdUBfS2GrNoX2SMG7cK9jYMVWjjp1HCkMYK6a8JD_Bn6iHgAW3O8PKALDgPOUmzS7Eh",
+                "original": "https://sa.kapamilya.com/absnews/abscbnnews/media/2023/life/09/22/20230922-gilas-filipinas-vs-changwon-lg-sakers-abs-cbn-news-1.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Gilas Pilipinas vs Changwon LG Sakers tune-up recap",
+                    "snippet": "Gilas Pilipinas vs Changwon LG Sakers tune-up recap: Justin Brownlee comes up clutch in win.",
+                    "publisher": "Sports Interactive Network Philippines",
+                    "timestamp": "1695377489000",
+                    "newsUrl": "https://www.spin.ph/multisport/asian-games/gilas-pilipinas-vs-changwon-lg-sakers-tune-up-june-mar-fajardo-calvin-oftana-justin-brownlee-a795-20230922",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/7cqwZUqt1FWMRiMUjJrbwJ5YZDgE0CSixXKBIHtdCqeJaaft6xF2QbFF_EHQsaaXyBYvTJqrFZ4WwdrSYxNEIoIlzv720UxR2Grne9LqtPHmvBd6-j66vjYbVLQbgm3LlVXqm5PvfnrfmpLWMVg3-3gCzR2bxSyV0VdJaQsR3c6Jkb6FcMOXBVAxcC1QauFoplCqAShGkTYbPOfHdKJe",
+                        "original": "http://contents.spin.ph/image/resize/image/2023/09/22/justin-brownlee-gilas-pilipinas-vs-changwon-lg-sakers-tune-up-1695375640.webp"
+                    }
+                },
+                {
+                    "title": "Gilas edges Korea's LG Sakers in lone pre-Asiad tuneup",
+                    "snippet": "Gilas Pilipinas triumphed over Korean team LG Sakers, 86-81, on Friday at the PhilSports Arena in Pasig City in its only tune-up game ahead of the Asian ...",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695376980000",
+                    "newsUrl": "https://www.philstar.com/sports/2023/09/22/2298260/gilas-edges-koreas-lg-sakers-lone-pre-asiad-tuneup",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/XvEMjbuIAmk1Poaw4dJdu7hTLOJafvl_DXZykiSOXLY_QZLn-18w4NmWDmn_bJpElt4G_FW3f8P9aARvObeHPmyTg4iHqvKJduUE6HDYyzuvQXc3TXtEmSbXl4hDE7Bb5R3DQuod6KhbjDjkZ5cSB6mvzuNBwLyKBVfahw",
+                        "original": "https://media.philstar.com/photos/2023/09/22/gilas-pilipinas_2023-09-22_18-03-54540_thumbnail.jpg"
+                    }
+                },
+                {
+                    "title": "Cone sees added 'little belief' among Gilas players amid eligibility issues",
+                    "snippet": "Gilas Pilipinas huddles after beating Changwon in a tuneup game at PhilSports Arena.–MARLO CUETO/INQUIRER.net Gilas Pilipinas triumphed over visiting.",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695414300000",
+                    "newsUrl": "https://sports.inquirer.net/530142/cone-sees-added-little-belief-among-gilas-players-amid-eligibility-issues",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/QDh5iHYw5reK8JLaGIo5BCO9Gb99UVe8irjRdT80JLe7LHosyGN5B3-BIQWu-bQFgbzE8Yg6F9fATCqYpf42SrCUyUC_4irqHET1Pn8qj4jpMlnUvwj6hVtIZGGTvb96cFmdryNpLzdAeQgzGFW87dd-LlVMTaY_iQsLaHTeK6fq1ETXA9YWn4Di8NY",
+                        "original": "https://sports.inquirer.net/files/2023/09/IMG_0786_Tune-up-Gilas-vs-LG-Changwon-Sakers_Gilas-Pilipinas-scaled.jpg"
+                    }
+                },
+                {
+                    "title": "Abueva, Romeo, Perkins, Tautuaa will likely get Gilas callup",
+                    "snippet": "THERE is still no clarity as to the final line-up of Gilas Pilipinas in the 19th Asian Games. Coach Tim Cone said they continue to await for an official ...",
+                    "publisher": "Sports Interactive Network Philippines",
+                    "timestamp": "1695386714000",
+                    "newsUrl": "https://www.spin.ph/multisport/asian-games/gilas-still-without-clarity-about-final-12-for-asian-games-a795-20230922",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/kr_ctVW4IQ3vjm81UCd1mwOouC2wT4zClayKzy8QfSSrqALiY2JFqB1dqjbsCPsZZ2wOcJU7C5OMksmk2Eq6wxHsvo0hAbZE0j_Gt6IFLfrUi8P7RTj7qbMBgefmLWMfeO86HeJnBpJWzSrAsMVZxaotGghxQhnK",
+                        "original": "http://contents.spin.ph/image/resize/image/2023/09/22/tim-cone-ross-gilas-pat-1695385680.webp"
+                    }
+                },
+                {
+                    "title": "Brownlee, Thompson connive in endgame as Gilas escapes LG in Asiad tuneup",
+                    "snippet": "Ginebra boys Justin Brownlee and Scottie Thompson, alongside newcomer Arvin Tolentino made the much-needed clutch baskets for Gilas.",
+                    "publisher": "Tiebreaker Times",
+                    "timestamp": "1695376332000",
+                    "newsUrl": "https://tiebreakertimes.com.ph/tbt/brownlee-thompson-connive-in-endgame-as-gilas-escapes-lg-in-asiad-tuneup/281934",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/dcNUzx2g3lidG8uDGtbDoHG2lnshCM5EhgmSe0JJkZSUfKuuccpaaCqZ9gG2VazPpFjnaY_tl_k63L9eab4AlRn1ZOvPWu_VnXQ8fNZGzCa94M9r1v56XFLSU3bUVly1nCjkJMOfp0HY5UwDeSbq8ic_1oHtskH6JoKj",
+                        "original": "https://tiebreakertimes.com.ph/wp-content/uploads/2023/09/Gilas-vs.-Sakers-Justin-Brownlee-3.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Angara expects swift fuel subsidy payout",
+            "snippet": "SEN. Juan Edgardo 'Sonny' Angara said Friday that the fuel subsidies being provided to the transport sector is a key government intervention that can help ...",
+            "publisher": "The Manila Times",
+            "timestamp": "1695399769000",
+            "newsUrl": "https://www.manilatimes.net/2023/09/23/news/national/angara-expects-swift-fuel-subsidy-payout/1911329",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/9o4ipzqWNLZUSKtWYIkpOzxZgmRIwGee9zp8C7UP_e2xlR97Hfeyix_PHmavrkuAyKPKkUIBHgJEVmYkAe6ySV75BMet73AdzquN97Wgy4ncMZcCA0aooFTxoJMtEjE0ZlNg8HCigw",
+                "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/22/244595.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Learning poverty in the Philippines linked to poor teaching quality – World Bank study",
+            "snippet": "A new World Bank report found the Philippines to have one of the most ineffective teaching practices in Southeast Asia, and past teacher training programs ...",
+            "publisher": "Philstar.com",
+            "timestamp": "1695368700000",
+            "newsUrl": "https://www.philstar.com/headlines/2023/09/22/2298233/learning-poverty-philippines-linked-poor-teaching-quality-world-bank-study",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/pqxF3nk7ZhCNI-b0oT9imFY3qdGTQ-W8UUi5gfYrlu-zuEftua_53A0cyIkiMlGF4rvBu_sKJ27jiY36anlCfJ_XUEbm3QDuoyE2M3QR5ruHOOiOcDbRXLv_YCtXvk3vbpWOZVrx6IsV1COBnukPj0msdYkQQPW5HABZ2huOEyD9p2RbXsmiT1JKeLNzPWYxQsJBsPMqkCP0AnnNg_Qj-J6o-LHEpJnK",
+                "original": "https://media.philstar.com/photos/2023/08/10/deped2022-08-1721-51-562022-10-1422-24-272023-06-2922-33-40_2023-08-10_19-12-4442_thumbnail.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Cebu FC loses AFC Cup debut vs. Phnom Penh| SUNSTAR",
+            "snippet": "CEBU FC lost its Asian Football Confederation (AFC) Cup debut after bowing down to Phnom Penh Crown FC, 3-0, on Sept. 21, 2023 at the Rizal Memorial Stadium ...",
+            "publisher": "SunStar Philippines",
+            "timestamp": "1695380144000",
+            "newsUrl": "https://www.sunstar.com.ph/article/1973482/cebu/sports/cebu-fc-loses-afc-cup-debut-vs-phnom-penh",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/L3YGuMyVR2Ls2TDqFy7e1yADRD9MkLnMHifMBGW-D8wRmWyGDlm1CZ2Gjm4Qf8Zcj0esalL1qJpm9EY7eHlayKVz3BRNEkdV3cjplv3znubApLnGdSmjzkoJ",
+                "original": "https://www.sunstar.com.ph/uploads/images/2023/09/22/466226.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Palace suspends gov't work on Sept. 25 for National Family Week",
+            "snippet": "MANILA – Malacañang has issued Memorandum Circular (MC) 32 suspending work in government offices under the executive branch from 3 p.m. onwards on Monday ...",
+            "publisher": "pna.gov.ph",
+            "timestamp": "1695342600000",
+            "newsUrl": "https://www.pna.gov.ph/articles/1210364",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/g-hTFeJg3Go7Zt9O3E8aU6YAdXnuDEYzD2IwJeWEhbLGnCd52X2dJZ1RBabqUj1AJEqOp4CngTZg9pslFyiEDfTX3lFH08k5YpLXECTH-36htLPn7AedgBslkTdDQtz16aom4S0l5zmxCILIIxAJ9x6bVu9n685lS1gkyR3xkgI",
+                "original": "https://files01.pna.gov.ph/ograph/2018/05/01/Family%20Luneta%20Park%20acd_5ae7a98ec81c67_68319042.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "ASIA/SOUTH KOREA - How to be happy? An antidote to individualism to counter the suicide phenomenon",
+            "snippet": "Seoul (Agenzia Fides) - \"Suicide is a tragedy in our society\", says Father Cho Seung-hyeon, a priest and journalist, columnist for 'CPBC Press Weekly', ...",
+            "publisher": "Agenzia Fides",
+            "timestamp": "1695409246000",
+            "newsUrl": "http://www.fides.org/en/news/74220-ASIA_SOUTH_KOREA_How_to_be_happy_An_antidote_to_individualism_to_counter_the_suicide_phenomenon",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/agrtTZhNeDIyiKv1ELyqFCmnAJyPQecLGeBz8YZc5GoH8HlccIxbLXgOinQXgmQ8Q_5RXZzwTgJytg5bxHm_uXxfwaK6EQwpgTnLQk9w0xFvdEpKXh0iXnWoNhlzHyXqRQbEwQ",
+                "original": "http://www.fides.org/app/webroot/files/appendeds/174/primopiano_17433.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Consumer optimism slightly up in Q3, says BSP",
+            "snippet": "Consumer confidence slightly improved in the third quarter of 2023 compared to the second quarter, the Bangko Sentral ng Pilipinas (BSP) said on Friday.",
+            "publisher": "ABS-CBN News",
+            "timestamp": "1695376260000",
+            "newsUrl": "https://news.abs-cbn.com/business/09/22/23/consumer-optimism-slightly-up-in-q3-says-bsp",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/KByvZIk7q8qX6iIByJSn9pYBw-TsDhRF6qMNS5KchpDpVr1c8A6epi4msejzQH2jcXlohNivF_OjkzbHVULCdukOrXYPq9asvgAtq_JTNk9KS2ov6-LXvkZryfcrHtSG_4R_OAs",
+                "original": "https://sa.kapamilya.com/absnews/abscbnnews/media/2021/news/11/09/mall.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Surigao gov seeks deeper probe on alleged 'shabu' lab in cult village",
+            "snippet": "SAN FRANCISCO, Agusan del Sur -- Surigao del Norte Gov. Lyndon Barbers on Tuesday met with members of a provincial interagency task force to further.",
+            "publisher": "Inquirer.net",
+            "timestamp": "1695390720000",
+            "newsUrl": "https://newsinfo.inquirer.net/1835537/surigao-gov-seeks-deeper-probe-on-alleged-shabu-lab-in-cult-village",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/ncg8xTiALiZ-0fq1m6lo6awZ8OshBLUZv9O84GyBpPKOjjCui0IYlFK_CzcBNEQ22t-0e06zKmlQopD88_Mw9oxvlpHhgsWOnWruCm_tv-sCNiBZCf2N2MgaWuw7vGR8vDZ_LtelQ0jCx6rZW5UqeO8",
+                "original": "https://newsinfo.inquirer.net/files/2022/09/Surigao-del-Norte-map-filephoto-091522.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Surigao del Norte group denies child abuse, cult accusations",
+                    "snippet": "A group based in Surigao del Norte that is accused of child abuse and manipulation denies engaging in cult practices.",
+                    "publisher": "Rappler",
+                    "timestamp": "1695293612000",
+                    "newsUrl": "https://www.rappler.com/nation/mindanao/surigao-del-norte-group-denies-child-abuse-cult-accusations/",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/jxlt0AT8wL9yqOGYRAIpMQNaSjwMADlAK8t8FtZPJ60Dkzpsft42vkg3IhBYhLmC0O2KsxkOdIJ4Rj8Cq4Z46grgLp2v1vuwZtaqDq-Azt0ExtlV3KIsJR3yPiD7",
+                        "original": "https://www.rappler.com/tachyon/2023/09/surigao-del-norte-cult.jpg"
+                    }
+                },
+                {
+                    "title": "Probe launched into alleged misuse of cash grants by Surigao 'cult'",
+                    "snippet": "Social Welfare and Development Secretary Rex Gatchalian on Thursday launched an investigation into claims that an alleged cult in Surigao del Norte might be ...",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695289740000",
+                    "newsUrl": "https://www.philstar.com/headlines/2023/09/21/2297996/probe-launched-alleged-misuse-cash-grants-surigao-cult",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/SZO-g-ZeB-m8rSik4ajaqwkng93jbFKyyFm2bIEp3j2ycTOJrlHm9X_dwVSmx2W7v7SrwXo6hgF4_uuBT_OrzHOeJ8uBmr2KpY7Xxrc3K_149Rr1UBT6inNDbDbSGECgVvpODBfa2O_1phkJFLiQhc2OgVsCpTV-1M2n_w",
+                        "original": "https://media.philstar.com/photos/2023/09/19/cult-hontiveros_2023-09-19_11-19-44818_thumbnail.jpg"
+                    }
+                },
+                {
+                    "title": "DOJ offers witness protection for minors rescued from sex cult",
+                    "snippet": "Eight children, who escaped an alleged sex cult in Socorro town, Surigao del Norte, will be brought to the Department of Justice (DOJ) next week and placed ...",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695415800000",
+                    "newsUrl": "https://newsinfo.inquirer.net/1835674/doj-offers-witness-protection-for-minors-rescued-from-sex-cult",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/mPNk9YBZmANdFwOTHXfHVkbBYTSMybCmdTT1qZfZk-DOdYtWecCW6Lh-tTg88TvV1qSXiRNsnjpuAUGQV5X9nBlL-kx3WFo0EToWZrEfL1i0OFI7C3xbmugN2xE-4K0np3rFxIt-Zwa2MmCP86lBhJGroQ",
+                        "original": "https://newsinfo.inquirer.net/files/2023/07/Department-of-Justice-facade-07062023-01.jpg"
+                    }
+                },
+                {
+                    "title": "Senator Ronald \"Bato\" dela Rosa | The Source",
+                    "snippet": "Investigations are set into allegations of abuse in a so-called religious cult in Socorro, Surigao del Norte.The proposal to shut down POGOs in the country ...",
+                    "publisher": "CNN Philippines",
+                    "timestamp": "1695262585000",
+                    "newsUrl": "http://www.cnnphilippines.com/videos/2023/9/21/Senator-Ronald--Bato--dela-Rosa---The-Source.html",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/rargaVNZVOqKsO-BxtDn1WwM0__bghQ8LaiWuGTZOg1m1UkZdh18V-QqxoMKUbjiW9iyF5ZiMEJ-MFo0ZEE3CQtIYwCCmedpQhXogtiUqArI87STX2m6MS8HIm6PeAGgmQFslZWQeb5OIVWy88dfXs0P1KPne77Y9MrNLgMGAIT9N72ja-V8_a9V-_bnWNMQLkQE6StG2WBaQCRDiqB3G9T39RQDOy5hBM9fbPnSjwgW",
+                        "original": "http://www.cnnphilippines.com/.imaging/default/dam/cnn/2023/9/21/bato-dela-rosa-sou-thumbnail.jpg/jcr:content.jpg?width=750&height=468&crop:1:1,smart"
+                    }
+                },
+                {
+                    "title": "DSWD chief: Probe 4Ps cash grants going to Surigao cult",
+                    "snippet": "MANILA – Department of Social Welfare and Development (DSWD) Secretary Rex Gatchalian has ordered an investigation into reports that a religious cult is ...",
+                    "publisher": "pna.gov.ph",
+                    "timestamp": "1695276600000",
+                    "newsUrl": "https://www.pna.gov.ph/articles/1210293",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/5LFiyc10p3Mquop4FmZIxhV_V402BgSSCvWyNsD2ZXyrumr0LYSTgHQJnULvGkjRwMRn5tc3iRlLCLCtCvvZeVoiGcx5Ozlideh3XAqFhgWuWsQjq-NZAykF",
+                        "original": "https://files01.pna.gov.ph/ograph/2023/08/15/rex-gatchalian.jpg"
+                    }
+                },
+                {
+                    "title": "Complaint filed vs leaders of Surigao religious cult",
+                    "snippet": "A complaint has been filed against leaders of the alleged religious “cult” Socorro Bayanihan Services Inc.",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695278700000",
+                    "newsUrl": "https://cebudailynews.inquirer.net/528789/complaint-filed-vs-leaders-of-surigao-religious-cult",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/vX9arV1Taak3znCf8b1qr_9exCqDut1LuFmJwSmsNlBmUa6ld9mxWhSp95shDmJk7gGkxKsKE6JdtFVcUdffcpxS0ibIquCrbIuebdRKyrpvKBwpM2f2Twuq40lBF5VNI8pf4pv-N1P6AyqIPjsDm9H7HgbKwfoZ6g",
+                        "original": "https://newsinfo.inquirer.net/files/2022/09/Surigao-del-Norte-map-filephoto-091522-620x352.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Filipinas open Asian Games campaign with victory over Hong Kong",
+            "snippet": "Metro Manila (CNN Philippines, September 22) — The Philippine women's football team began its 19th Asian Games stint with a 3-1 win over Hong Kong Friday at ...",
+            "publisher": "CNN Philippines",
+            "timestamp": "1695388625000",
+            "newsUrl": "http://www.cnnphilippines.com/sports/2023/9/22/Filipinas-Hong-Kong-19th-Asian-Games.html",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/nUMIWob77mI0FccGUBoqDScKKG2kMYjyibtSGtC8mUCi8eRcFnfs-AOHD3v_t7wRFCjauts0noO6iX7KP3dV34tqLAO5PXq6szRoOfPgbCkkLZEVykDzZ7skSplq7M3ZEf9wwMAM79Eki1tCl1mArdISpz0oR1N3Zc0Qczefm1_gHboSTMkshal0VTvAVBURbPFIekFxvN6JzwnZ5_SXOEreX6YxDVQ2K24cow6DsaniLHjEg5230g",
+                "original": "http://www.cnnphilippines.com/.imaging/default/dam/cnn/2023/4/6/Filipinas-vs-Vietnam-SEA-GAMES_CNNPH.jpg/jcr:content.jpg?width=750&height=468&crop:1:1,smart"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Filipinas score pivotal win vs Hong Kong in Asian Games football opener",
+                    "snippet": "Sarina Bolden, Quinley Quezda, and Katrina Guillou slot in the goals to give head coach Mark Torcaso a victory in his debut match for the Philippine women's ...",
+                    "publisher": "Rappler",
+                    "timestamp": "1695378981000",
+                    "newsUrl": "https://www.rappler.com/sports/football/asian-games-women-results-philippines-hong-kong-september-22-2023/",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/bgdO-4SeJtAhzEf2p35v9eOpR2dSzxzo0ewNmUkRuxFK6sbELPQN6DLznWGHXAxbN9JgTCs4zJmZWA7VR59-5lZRS_BGGk3idHoGWyNL-F_PkjOF8ar-keAdztZ6j3dUzEU",
+                        "original": "https://www.rappler.com/tachyon/2023/09/sarina-bolden-football-2023.jpg"
+                    }
+                },
+                {
+                    "title": "Filipinas beat Hong Kong in Asian Games opener",
+                    "snippet": "MANILA, Philippines–The Philippines scored two goals late to survive upset-minded Hong Kong, 3-1, on Friday and give new coach Mark Torcaso a winning.",
+                    "publisher": "Inquirer.net",
+                    "timestamp": "1695382320000",
+                    "newsUrl": "https://sports.inquirer.net/530098/filipinas-beat-hong-kong-in-asian-games-opener",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/wRS3N69TZ0be5CSmjGmloihlU-oH9Ya8fTvZWYmexsu9CEZakYRc7r_sxTATy6e_qQPdmlRX5KigiiPdyLT8jhFQWl1ThcUCaOuOuwKlNFxCLs8yPquyfPdqUJJdQP0",
+                        "original": "https://sports.inquirer.net/files/2023/09/filipinas-asian-games.jpeg"
+                    }
+                },
+                {
+                    "title": "Asian Games: Filipinas escape HK for first win",
+                    "snippet": "The Filipinas leaned on two crucial late goals of Quinley Quezada and Katrina Guillou to open their 19th Asian Games bid on a high note.",
+                    "publisher": "ABS-CBN News",
+                    "timestamp": "1695379500000",
+                    "newsUrl": "https://news.abs-cbn.com/sports/09/22/23/asian-games-filipinas-escape-hk-for-first-win",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/0yedtAFz66ukYdaWIM2XbThFiH9qSHLIqNH5iCycyv7_SUiS4nwntAqHHnRO1_NzNQa5nOztHbJ9ndYxGQs8LKEeb8hG2NWI9G-unRR9TL8JkY2qZvIoZDgoKyp-_MbhDBd3T5hj3oYR5dVk2dQZH9hYUUfrxg06vTY",
+                        "original": "https://sa.kapamilya.com/absnews/abscbnnews/media/2023/sports/09/22/football-hk-ph-09222023.jpg"
+                    }
+                },
+                {
+                    "title": "Filipinas nail late goals, beat Hong Kong for winning Asiad debut",
+                    "snippet": "The Philippine women's national football team banked on the late heroics of Quinley Quezada and Katrina Guillou to eke out a 3-1 victory over Hong Kong in ...",
+                    "publisher": "Philstar.com",
+                    "timestamp": "1695377640000",
+                    "newsUrl": "https://www.philstar.com/sports/2023/09/22/2298262/filipinas-nail-late-goals-beat-hong-kong-winning-asiad-debut",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/aYdljBdLZr8TTVco_3cfNJwxl177xFkIxYJfUP8lJUftJaXKb1fMej5SbGHZHwcMr-BkrU9ceRZdUMjsjtrI27UZT5NCaZWKQm_aBoWJsaUU02XHOKs2ZIexunfHTxOtZno__AEh1nQbvdM1x0FMra10BbZZZNaB703E",
+                        "original": "https://media.philstar.com/photos/2023/07/19/filipinas-fifa_2023-07-19_12-49-25490_thumbnail.jpg"
+                    }
+                },
+                {
+                    "title": "Filipinas ride two late goals to beat HK in Asian Games debut",
+                    "snippet": "THE Philippines scored two late goals to salvage a 3-1 win over Hong Kong on Friday at the start of the 19th Asian Games women's football competition at the ...",
+                    "publisher": "Sports Interactive Network Philippines",
+                    "timestamp": "1695382531000",
+                    "newsUrl": "https://www.spin.ph/multisport/asian-games/filipinas-score-late-goals-to-beat-hong-kong-in-asian-games-a795-20230922",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/Wf1VELVepOEillFqgmw4eeYy1WlCggwe2-LsIz8xMcf9HBMhQwr8AjoBxvuCCV6JdhalxRV89JJ9QGauqyJ0jsDapa83FLjcU8-66acVlogMmmuSdcXlgaVwknbv8QO3ACX7N7Y_aGbExLa7tAKhKVyI92lEKY_wWqQ",
+                        "original": "http://contents.spin.ph/image/resize/image/2022/02/02/sarinaboldenbanner-inside-1643788893.webp"
+                    }
+                },
+                {
+                    "title": "Asian Games: Quezada, Guillou propel Filipinas past HK",
+                    "snippet": "Quinley Quezada and Katrina Guillou's late goals propelled the Philippine Women's National Football Team to a fine start in the 19th Asian Games in Hangzhou ...",
+                    "publisher": "Tiebreaker Times",
+                    "timestamp": "1695376970000",
+                    "newsUrl": "https://tiebreakertimes.com.ph/tbt/asian-games-quezada-guillou-propel-filipinas-past-hk/281938",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/CuiKCZniMvkPcAZx63URW_4st-ypPQMIrnYHbQpwKU0D1vCOkP92rAywpc1m9KQhPaeA55euKQxC3C1a7Wkg6QZ-8htpVxjbaFKYIuCapAHLCf9zUUZJSJOhyJ-eEeQBfSz9dQLgR7ImMkfjGA6yL4m9qybt9KOqd1qpEW8jMxhvIblRNH8PVRqIlhi6RKETDPKC99LO2Gwit99sw-zviZr-",
+                        "original": "https://tiebreakertimes.com.ph/wp-content/uploads/2023/09/2022-AFF-Womens-Championship-Malaysia-vs-Philippines-Quinley-Quezada-PHI.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "DPWH volunteers join international coastal clean-up drive",
+            "snippet": "Armed with gloves and disposal bags, personnel of the Department of Public Works and Highways (DPWH) Central Office and National Capital Region (NCR) ...",
+            "publisher": "Manila Bulletin",
+            "timestamp": "1695373718000",
+            "newsUrl": "https://mb.com.ph/2023/9/22/dpwh-volunteers-join-international-coastal-clean-up-drive",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/QVe82IeXpviyF-983F9B35V72FTCCR1hVIRKqy3QT33SzBkEL5uB-4BXZUeTCxwe4l--J633C_MEUNnII-sb4j0euzkkGJeZ378MftFfozk9OXzxWIx-iJ1F44uo7kkH90BUcuTbfRY7U86SFc6_dFkqotlaW7tThoDfxUPhyWPq_W5dNDrX1QbpwtT-nFVlyrBm0cD8gd0QEENy2pbN-KL7Lm3lYeo7VUtGn0oHPogbOrCP9g9aUqvPIzR0Uk0PJ2sOHSrJQytLD0GTAwBuRJ5FT20VLZTpbJoH9wZUCUSVkRE1g5WWyKwCUowmnJfQVyfc5UplegID0oHS",
+                "original": "https://storage.googleapis.com/mb-mkt-neo-prod-1-uploads-2/media/Screenshot_2023_09_22_17_01_27_59_99c04817c0de5652397fc8b56c3b3817_2082944e9d/Screenshot_2023_09_22_17_01_27_59_99c04817c0de5652397fc8b56c3b3817_2082944e9d.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Agricultural economic sabotage bill certified as urgent",
+            "snippet": "President Marcos has certified as urgent a measure that defines and imposes penalties for agricultural economic sabotage as his administration grapples with ...",
+            "publisher": "Philstar.com",
+            "timestamp": "1695312000000",
+            "newsUrl": "https://www.philstar.com/headlines/2023/09/22/2298046/agricultural-economic-sabotage-bill-certified-urgent",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/LG80HT_Os0tqoiy1UZq58VaTxtNGdBImNHCbLbuRFv0bnkYujPzRJVwho5ilkMwSiyvOdDBhYfi4UBOufTpf-cTtxFj1ZsP8Pm7haaEehVK7pLqrUaEOOtVgRnDfIrg2hkLdWdFPbAPrtsmoWwpURTlmVJjh_lBi7eqIqj2L-jBD",
+                "original": "https://media.philstar.com/photos/2023/09/22/132023-07-0100-17-07_2023-09-22_00-05-52741_thumbnail.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "2023 Metrobank Art & Design Excellence (Made): Winning Works Mirror Nation's Soul • l!fe • The Philippine Star",
+            "snippet": "Of the 402 entries received this year, seven up-and-coming young Filipino painters and sculptors were named winners of the 2023 Metrobank Art & Design ...",
+            "publisher": "PhilStar Life",
+            "timestamp": "1695388498000",
+            "newsUrl": "https://philstarlife.com/news-and-views/766628-2023-metrobank-art-design-excellence-winning-works",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/t14lEXJKgu93qgKC7K2srf_fbnNfcftHx5DeREHjcUxhJ-ZnkPwtJDRu-n2meEd8UtjUe8IXgmSJM__0Qc_l7VmWrcgfXn-_1GD0KhPgcy_kAjdQ6-fpndkiCLqhs-gTDV1mO-hEzNO8ywuajizBSsyb79R4FXStUCaYbzy1gWQZLYNqohVJXzJsv0Q",
+                "original": "https://philstarlife.s3.ap-east-1.amazonaws.com/photos/Adverts/Metrobank%20-%20Sept%2022-2023/metrobank%20630.png"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "PH, Canadian frigates hold 'joint sail' in West PH Sea",
+            "snippet": "MANILA – The Philippine Navy (PN) missile frigate BRP Antonio Luna and the Royal Canadian Navy's HMCS Ottawa (FFH-341) conducted a bilateral sail activity ...",
+            "publisher": "pna.gov.ph",
+            "timestamp": "1695364980000",
+            "newsUrl": "https://www.pna.gov.ph/articles/1210376",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/4EAlMC5b7k9_YLZEQJRx0a4iyfuEU4ihKIX12kwoV_zn4LLMCkpCEcZFVlJROBbE8NGmWGnOnv31AtoaBE1n-6bsgtMPxbSQjr04t5GRruWPrvnEFP7GMMwuJ1gHmx-jhVq3KzVDcfStEeGfVx7WiHpwFjApxlpXBr_SO1G6Vb1r15NS20oOrFkyfMw7VdEwgQ3-3Ak6EG6knNNvaw",
+                "original": "https://files01.pna.gov.ph/ograph/2023/09/22/brp-antonio-luna-and-canadian-frigate-joint-sail-wpsphoto-courtesy-of-afp-wescom.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "World leaders commit to new targets to end TB",
+            "snippet": "World leaders at the United Nations General Assembly's High-Level Meeting on Tuberculosis have approved a Political Declaration with ambitious new targets ...",
+            "publisher": "World Health Organization",
+            "timestamp": "1695392706000",
+            "newsUrl": "https://www.who.int/news/item/22-09-2023-world-leaders-commit-to-new-targets-to-end-tb",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/51yrUfBcuCLToinP86nUn-M5h94CFqq-GzmQiMu1mi4n5pdLfSXl4H-plyqoNaqnyyPw7nkQoro5TLe8MUKUVrs5_Be2Z1UQDv4v4Bi99yGtAQ63fzjgBKYP4MKXYBEiRb5ZLB6kHv9t1D23Ne2B-WEfnNPYZA",
+                "original": "https://cdn.who.int/media/images/default-source/tuberculosis/527a0213.jpg?sfvrsn=b4691aba_3"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "DOT sees tourism sector employing over 30M Filipinos by 2028",
+            "snippet": "MANILA – The country's tourism sector is seen to employ over 30 million Filipinos by the end of 2028, the Department of Tourism (DOT) said Friday.",
+            "publisher": "pna.gov.ph",
+            "timestamp": "1695385800000",
+            "newsUrl": "https://www.pna.gov.ph/articles/1210422",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/HZFo5f30zoDmclJwwnaGci6Mpw52uG4wgXiAIlOj2UaVk01F5UNxjSCDM9bu5uDeIM_kqwA-YGWb7W9eCLkSgt0L8WrWHp7fvx3MLdoc5RSJsNcd9-2gZuCzf9N0ivF-q3z2dSd58_85iA",
+                "original": "https://files01.pna.gov.ph/ograph/2023/09/22/dot-sec-frasco-in-macao-dot-fb.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Press Release - Zubiri Unites Negros Occidental, Negros Oriental & Siquijor Leaders for Negros Island Region",
+            "snippet": "\"It is our job to bring government closer to our people, and this is why we are committed to reestablishing the Negros Island Region (NIR) once again.\".",
+            "publisher": "senate.gov.ph",
+            "timestamp": "1695355773000",
+            "newsUrl": "http://www.senate.gov.ph/press_release/2023/0922_zubiri1.asp",
+            "hasSubnews": false
+        },
+        {
+            "title": "Parlade, Badoy reprimanded for red-tagging",
+            "snippet": "The Office of the Ombudsman has found guilty former anti-communist task force officials Antonio Parlade Jr. and Lorraine Badoy over the red-tagging of human ...",
+            "publisher": "Philstar.com",
+            "timestamp": "1695312000000",
+            "newsUrl": "https://www.philstar.com/headlines/2023/09/22/2298048/parlade-badoy-reprimanded-red-tagging-",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/fKVHrLD2Fsf4O9NLhDNFY9zzvU8qlMSah9Kr1WVQ7hZTAAmIq0ws2ESyYt4UjKIb7Ld8r6Fq4KxyCkHpSsOHvYBph97okhSmyZ3ukOuncveO08F6xZDzD5gjhnRV-0KSl2pcDaq90cON_LLz-dFMqXnNDE3ndwwNShRj6wRph1nhwmFVmA",
+                "original": "https://media.philstar.com/photos/2023/09/21/ombudsman2022-12-3117-46-44_2023-09-21_22-05-34_thumbnail.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Commander of 2 Cavite cops arrested for robbery, extortion should be held accountable — senator",
+            "snippet": "Metro Manila (CNN Philippines, September 21) — The commander of the two Cavite policemen arrested for robbery and extortion should be held accountable for ...",
+            "publisher": "CNN Philippines",
+            "timestamp": "1695280707000",
+            "newsUrl": "http://www.cnnphilippines.com/news/2023/9/21/dela-rosa-arrested-cavite-cops-extortion.html",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/22yxjHbHyfl3ikUXofLdayXTb3KTs0JvKQmTpc5JgUlJOAnJrl5J4QevUZqbBUT0F_NAjOzDotf-8HpELagv0jziUfZfNf_Z1NIym8VAjxmUYdCrPIRdAgX8oeDNV29tAdnVNLAMJdxeTXRXzcCbfTMMK0yDiKYTfa3Rh7BqPbn_OLnZAj8NK4DT6wjHP7zM1VuclL6PFwR1m1hQuJGwdRCrwfQekGCj5BmhpsPVWA",
+                "original": "http://www.cnnphilippines.com/.imaging/default/dam/cnn/2023/9/21/Cops-Arrested-Cavite_CNNPH.jpg/jcr:content.jpg?width=750&height=468&crop:1:1,smart"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Gov't asked: Why still no rice smugglers charged?",
+            "snippet": "Sen. Francis Escudero on Thursday challenged the Bureau of Customs (BOC) to file criminal charges against suspected hoarders and smugglers of rice to Sen.",
+            "publisher": "Inquirer.net",
+            "timestamp": "1695331800000",
+            "newsUrl": "https://newsinfo.inquirer.net/1835155/govt-asked-why-still-no-rice-smugglers-charged",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/a1ZLaAPIKmhFsvouxTMjmd3Hcuqe_oJS8Hfd3vYM4qTKnj4hZY-S-gbX54VCzulOk6sTEC9b1tkoGWX0jj8GQ0uO-Jrua2v9DF9cVSPeySnwj1JCIpcMk4n6mw79Oa3PG3U_hRTqUQQq7MHgv3fUa1btWg",
+                "original": "https://newsinfo.inquirer.net/files/2023/09/smuggled-rice-las-pinas-cavite-warehouse.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Asian Games: Delgaco advances to medal race in rowing",
+            "snippet": "Rower Joanie Delgaco placed second in the semifinal heat on Friday to progress into the final of the women's single sculls in the 19th Asian Games at the ...",
+            "publisher": "ABS-CBN News",
+            "timestamp": "1695396180000",
+            "newsUrl": "https://news.abs-cbn.com/sports/09/22/23/asian-games-delgaco-advances-to-medal-race-in-rowing",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/3HIBCTYJtmMZTcpTswhavCAuz6SXa5kSlyKh2S_QJlilfvoJUFEenM67atUkyAOX-TlK3v-gSexx_Z2rZ3SfdMHhym_vVXLOhN24j7CVFiWMStQkFFdHbqSKcJDZXq62pIZzY8xDatkCZGbeXwSRzSIc-7l2WPesEFHKPLAxpFOiGbBv",
+                "original": "https://sa.kapamilya.com/absnews/abscbnnews/media/2023/life/09/22/20230922-joanie-delgaco-via-handout.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Climate crisis has 'opened the gates to hell' – UN chief",
+            "snippet": "UNITED NATIONS, United States: UN Secretary-General Antonio Guterres on Wednesday (Thursday in Manila) told world leaders the climate crisis had 'opened the ...",
+            "publisher": "The Manila Times",
+            "timestamp": "1695313020000",
+            "newsUrl": "https://www.manilatimes.net/2023/09/22/news/national/climate-crisis-has-opened-the-gates-to-hell-un-chief/1911213",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/3RzES_4j-sjAe4lDZsqs8sRjxHcg3eN4-mSp0Dpg0oyExhaWb4xb-messtYRUK7WZeGa10Gm5v0lZ9cjAy_e2E-zhL3FiuD47_FKa8fTpVUrchxncsTUZsjoS2Mo2BbKEU5PhYOmGQ",
+                "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/21/244161.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Analysis | The other big climate fight in New York this week",
+                    "snippet": "Good morning and welcome to The Climate 202! It's an incredibly busy time for climate news, but we're here to help you stay up to speed.",
+                    "publisher": "The Washington Post",
+                    "timestamp": "1695306180000",
+                    "newsUrl": "https://www.washingtonpost.com/politics/2023/09/21/other-big-climate-fight-new-york-this-week/",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/x8x6R9SkteC-dtDsYOsZt1DXkvWJXdXyYmWfrWBJ3C35IjPEp_p7Z-JvfSulLHzzLAKv2yEEmF4RAJ493U4eDrf_W5w9hkl1EpGFBlWShwVI5He2HMgTtTikQzdhsaoK_WuX2HZgVpFUuBp622t8VdVx45zh5VqYZ3a88SGX7yZIxWcgzuZikQnjcaL4UGauWjIyLl5Za0X_-Qu26UOLpsY-6w_T9qoV3Vo4",
+                        "original": "https://www.washingtonpost.com/resizer/jILftkXz38yFj97bG0V-kTVTCMA=/arc-anglerfish-washpost-prod-washpost/public/67Z4PXDQVEI6VIKWABELMLG3KE.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "LIVE updates: Mayon Volcano restiveness",
+            "snippet": "MANILA, Philippines — The Philippine Institute of Volcanology and Seismology raised on June 8 the status of Mayon Volcano in Albay to Alert Level 3 after it ...",
+            "publisher": "Philstar.com",
+            "timestamp": "1695346560000",
+            "newsUrl": "https://www.philstar.com/headlines/2023/09/22/2298193/live-updates-mayon-volcano-restiveness",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/3qWjcBQBn6L9g8amTRmmzH-GAVtmCr4cFBk6p4t6bX2y5ajZT78CXZj-5xwDRbDOQnUHAzVclMyc8u-1AYIr2PXn-CtCO-HVxNzMWnU9RZi69J5co1UMKp-ObrAevUtwks4As8DzxlkbtaVCTDlqXBfp1Ed0X77dxxcuAA",
+                "original": "https://media.philstar.com/photos/2023/06/22/afp-mayon-smoke_2023-06-22_08-06-20483_thumbnail.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Smart Omega fends off pesky AP.Bren with 2-1 comeback",
+            "snippet": "by Drew Malihan. MAKATI - Smart Omega Esports secures their third win of the season with a 2-1 reverse sweep of AP.Bren to open their Week 4 campaign of the ...",
+            "publisher": "Dugout Philippines",
+            "timestamp": "1695387000000",
+            "newsUrl": "https://www.dugout.ph/2023/09/smart-omega-fends-off-pesky-apbren-with.html",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/kPABGjpQ0msV01Q64CMN7_cHeTujzYLD0KmmD7TT3qLlbxDBCHBX6XX117wpfATcp64wDhSsysSsadTRR4MWhzmJxzrlmT6z9Ma9OCnRn1er-lW45X1P__d4cyEyPnkN0oUUlOHQ_AXEWhro6UfaXMcHBH2Jhha5cYm5ZycfdvsvpSYyPnl9KKljpPtORIrYYnN20CvAA_M2S6EJCfaMBeKTWijswF3zJqYdczqM2vE7HjPEJIit0OpOXJBD5PMnC0L6pq6oYyeTzIcep3tbPfaLSmsBJOBwHeSKhHRzuvixUgSEB_IpZtKarVqabt7PPo1oWViUx0N0J03z5RxeG03gTyzUCuCTwpHi89tnwSqRCxbKn9UJYjhJL3oBM1wjem-f_THYpHp6",
+                "original": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2HBeTy4-ZwbIZrLlHPwuyoK7_90OtkiVhSPTCbmancixHRYUStMSG-m_l-rJFmjOcwuYjrhP6I3iJKOKTTwITqejKGnOcX6K45K6V8H-UuIGd8sqvI9NKR_FqYJ565W8TS5CNkzHNyBG9j6JdMzl9MiEiRWsQ4vYdirVuwSoaWHqIghVzzCUgTiH7tP8/s2048/MPL-06336.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Men's beach volleyball preliminary match at 19th Asian Games: Qatar vs. Philippines",
+            "snippet": "Alnakran Abdilla (R) of the Philippines spikes the ball during the men's beach volleyball preliminary pool B match between Cherif Samba/Ahmed Janko of Qatar ...",
+            "publisher": "Xinhua",
+            "timestamp": "1695427375000",
+            "newsUrl": "http://english.news.cn/20230923/a317190fb58845a9a1994537c4f27838/c.html",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/TcuIj1IOTZI9aEX6jB_IMomH0vxT_zP-c7gowaShVoonam1vK-qaigV_upKDuPiidDkenN3qE-Fi68IgUudrmFuSBa50adUZB8gAuXdIwMkG3XB4oVCQ_UVWdHlbRhZO7yJrfdpRPJ6ES1uSzcjxSdSbIwejHIFZdqPP3GlSjIIyZoXiG6TZVa12_mEXKhVw8zuooKxo-Wu4P5zIsjxy7YlHCCB4F8VYsz3havVvhke44A",
+                "original": "http://english.news.cn/20230923/a317190fb58845a9a1994537c4f27838/20230923a317190fb58845a9a1994537c4f27838_20230923d1d9370d76d345459fb5e9b02370a1cc.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Private, public sectors urged to help cushion oil price hikes",
+            "snippet": "MANILA – Both the private and public sectors should be willing to make temporary sacrifices to cushion the continuing increases in domestic prices of ...",
+            "publisher": "pna.gov.ph",
+            "timestamp": "1695376800000",
+            "newsUrl": "https://www.pna.gov.ph/articles/1210405",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/yVHnx8UKv6LiqLkyuNFk-UGv0mFCwnNqEy8zAbhER_lW5dmc11tB065kBq9kV3l3QKFZNoTDnO4O6V7OwaqBO76X-A1nIMF5skXcyJbP3sQMzk3pZCb0QM0OaZyZyKnTurhqMPBK-_OilpUm",
+                "original": "https://files01.pna.gov.ph/ograph/2023/01/31/viberimage2023-01-3117-04-14-650.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Airport workers to stay amid NAIA privatization – DOTr",
+            "snippet": "The Department of Transportation on Friday assured airport employees that their tenure stays amid the looming privatization of the Ninoy Aquino ...",
+            "publisher": "CNN Philippines",
+            "timestamp": "1695387616000",
+            "newsUrl": "https://www.cnnphilippines.com/news/2023/9/22/NAIA-workers-job-privatization.html",
+            "hasSubnews": false
+        },
+        {
+            "title": "NPO finishes printing of 92M ballots for 2023 BSKE",
+            "snippet": "A total of 92,054,974 official ballots have been printed by the National Printing Office for the 2023 Barangay and Sangguniang Kabataan Elections (BSKE).",
+            "publisher": "GMA News Online",
+            "timestamp": "1695263131000",
+            "newsUrl": "https://www.gmanetwork.com/news/topstories/nation/882805/npo-finishes-printing-of-92m-ballots-for-bske-polls/story/",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/3G8D5ZBz7fzMEPxlGEz72VJTLBjoMs2IgojSNrvnadFyN6zC4mk75rB5cxuUsnpogK0cxgYYIDkG3CXH63tutHQoMRyirCAdpYg6VJft46doLuvu6_zT7fWaNK3QyHo6umVZ0qCWDAyqtVM",
+                "original": "https://images.gmanews.tv/webpics/2022/01/ballotprinting_2022_01_24_09_30_58.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "College equivalency bill hurdles 3rd reading",
+            "snippet": "The House of Representatives has approved on third and final reading the proposed law institutionalizing the Expanded Tertiary Education Equivalency and ...",
+            "publisher": "manilastandard.net",
+            "timestamp": "1695304815000",
+            "newsUrl": "https://manilastandard.net/news/national/314372601/college-equivalency-bill-hurdles-3rd-reading.html",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/cZuTESFN1GHpP407kITkp9c5vRYZsz0Vw0IoH2g-b0aGX5CQu-uxe93VeExVer3PfHlVscOcVrWMd_OD5Lb-IMFU5lrIzvgRIF6QBbnsu0IS3V5bKLyLkSYNHo_lgU8_aINzFf6IRyp8mcmb7w",
+                "original": "https://manilastandard.net/wp-content/uploads/2022/10/house_of_representatives.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Education in the line of fire: What Filipinos can do for Ukrainian children",
+            "snippet": "Children of Heroes' mission is to support Ukrainian children who have lost one or both parents to the war began in 2022.",
+            "publisher": "Philstar.com",
+            "timestamp": "1695261600000",
+            "newsUrl": "https://www.philstar.com/lifestyle/business-life/2023/09/21/2297475/education-line-fire-what-filipinos-can-do-ukrainian-children",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/TM3ZgD91KoWMHZ0rZAAQecE1WhDi0eTD_C7v5lnwlpFtkrRMzcRrQ7hIi9RA04NiG4fRupFF16NifkMfUlE7Ws-RzbbehzZGqUpEXmfAgC8taee2q5nCbZuDRqZUo9UhsopJnVRoSwY9ixQT9_U_8u8",
+                "original": "https://media.philstar.com/photos/2023/09/19/lead_2023-09-19_15-24-03240_thumbnail.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "PH meat imports fall",
+            "snippet": "THE country's meat imports fell by 4 percent in the first eight months of the year as Filipinos consumed less pork and beef amid rising global market prices ...",
+            "publisher": "Panay News",
+            "timestamp": "1695329040000",
+            "newsUrl": "https://www.panaynews.net/ph-meat-imports-fall/",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/l5uwKWJHvJL6qwK-v4xQTXIzz5aOaSO4WXGEzcYc1CTLNxR0sTSoB57_NK1gKN1tu9YPo8BluvqMBdDCYOsTh3Op-s_EZSECeLDRY3Z0U4zocj8shQktJlLS5VNck4lvVZr2cUBMXZ_CtIg",
+                "original": "https://www.panaynews.net/wp-content/uploads/2023/09/PH_meat_imports_resized.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Xiaomi launches the Redmi Note 13 series with IP68 rating for the first time",
+            "snippet": "Xiaomi has launched the Redmi Note 13 series in China, marking the first time the lineup gets an IP68 rating, plus other flagship features.",
+            "publisher": "Android Authority",
+            "timestamp": "1695374480000",
+            "newsUrl": "https://www.androidauthority.com/xiaomi-redmi-note-13-series-china-launch-3366984/",
+            "hasSubnews": false
+        },
+        {
+            "title": "MMA: Adiwang scores TKO vs Mattheis in 23 seconds",
+            "snippet": "Lito “Thunder Kid” Adiwang promised a thunderous return and boy, did he deliver one.",
+            "publisher": "ABS-CBN News",
+            "timestamp": "1695403500000",
+            "newsUrl": "https://news.abs-cbn.com/sports/09/23/23/mma-adiwang-scores-tko-vs-mattheis-in-23-seconds",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/KfIBlIcUsvQreawFBmH-KS8w8VGm-Fm2Fuf6lSQGoiElTxCbNeMHVgzU9uedgZj9GjDrFFV0zKgtJX-LSijhRczlhTvh3tjhpcMWbEyoIXK71v3C5etEMFruD5JOvJZwk6RMDevr6vlFxrJ7QooiBLRh5W2jVFsotfN75qHtaCpKQA",
+                "original": "https://sa.kapamilya.com/absnews/abscbnnews/media/2023/life/09/22/20230922-lito-adiwang-via-handout.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Philippines inks historic deal to protect world's oceans",
+            "snippet": "The agreement reaffirms the country's commitment to protect the world's oceans for present and future generations.",
+            "publisher": "GMA News Online",
+            "timestamp": "1695306302000",
+            "newsUrl": "https://www.gmanetwork.com/news/topstories/nation/882889/philippines-inks-historic-deal-to-protect-world-s-oceans/story/",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/kktCfmK5YHdBbbKYUiV-PqGEJ8DKs5A2H18l41dlbhS_2vfMFtJBsj7pxwP18aQQ1lvmUZJxsvHS8Xp80XDmFQXccsKQVGbCtrZon01vNXrmOZ0fRO5FdT_rduLuBQOLtpUIJhHQTw",
+                "original": "https://images.gmanews.tv/webpics/2023/09/ocean_deal_2023_09_21_22_22_06.JPG"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "DOH reports 168 new Covid-19 cases; fatality rate steady at 1.6%",
+            "snippet": "The Department of Health (DOH) recorded 168 new Covid-19 cases on Sept. 21, bringing the total number of Covid-19 cases in the country to 4,113,222.",
+            "publisher": "Manila Bulletin",
+            "timestamp": "1695356096000",
+            "newsUrl": "https://mb.com.ph/2023/9/21/doh-reports-168-new-covid-19-cases-fatality-rate-steady-at-1-6",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/vOzLLJnJE5pMyFTwi9D4IaEzINXxG3OcfluCrZ14ISfzA0jW8-1m7aLZ4dqilPFOHOrNZ-HuG02Qr4Ge-5Zoxkj3NwljpSYqI-mdB775vgy1jHXpLrHbqQn17wkOgqh6KmCjZe9UZftPejaEaDEg5Zy1",
+                "original": "https://mb.com.ph/media/corona_5401250_640_b668dbbf5e/corona_5401250_640_b668dbbf5e.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "China to PH: 'Stop polluting waters, remove rusting ship'",
+            "snippet": "CHINA said the Philippines should tow away its 'rusting' ship in the Ren'ai Jiao or Ayungin Shoal in the West Philippine Sea (WPS) and 'stop polluting' the ...",
+            "publisher": "The Manila Times",
+            "timestamp": "1695343920000",
+            "newsUrl": "https://www.manilatimes.net/2023/09/22/news/china-to-ph-stop-polluting-waters-remove-rusting-ship/1911259",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/3tSrEVDxgZg97-I7tQAXX6Dzx8XKRqjmFU0tMMeFv5O8KrvSxxJUqdn6tyjt0LgWqCJ8olCx-rXZ3oLLLNGblXyxFaKLAN4jRn-JY2KQTulAIxTrn2HV0uqSM-hIwO4coO18APacdA",
+                "original": "https://www.manilatimes.net/manilatimes/uploads/images/2023/09/22/244210.jpg"
+            },
+            "hasSubnews": false
+        }
+    ]
+}

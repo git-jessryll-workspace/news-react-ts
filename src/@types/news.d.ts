@@ -1,38 +1,20 @@
+import { IBingNews } from "./bing";
+import { IGoogleNews } from "./google";
+
 export interface INewsArticle {
   id: string;
   type: string;
   publishedAt: string;
-  data: IBingNews;
+  data: IBingNews | IGoogleNews;
 }
 
-export interface IBingProvider {
-  _type: string;
-  name: string;
-  image: {
-    _type: string;
-    thumbnail: {
-      _type: string;
-      contentUrl: string;
-    };
-  };
-}
-export interface IBingNews {
-  datePublished: string;
-  description: string;
-  name: string;
-  image: {
-    thumbnail: {
-      contentUrl: string;
-      width: number;
-      height: number;
-    };
-  };
-  provider: IBingProvider[];
-  url: string;
-  _type: string;
+export interface IRapidHeaders {
+  "X-BingApis-SDK"?: string | undefined;
+  "X-RapidAPI-Key": string;
+  "X-RapidAPI-Host": string;
 }
 
 export type AppContextType = {
   newsArticles: INewsArticle[];
-  // updateNewsArticles: (items: NewsArticleInterface[]) => void;
+  updatedArticles: (list: IBingNews[] | IGoogleNews[], type: string) => void;
 };
