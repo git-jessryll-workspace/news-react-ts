@@ -7,7 +7,7 @@ const ToggleTheme = () => {
     AppContext
   ) as AppContextType;
   return (
-    <div className="bg-[#F4EEE0] w-[70px] flex justify-between items-center space-x-2 font-semibold antialiased border border-[#4F4557] rounded-full p-1">
+    <div className="bg-[#F4EEE0] w-[80px] flex justify-between items-center space-x-2 font-semibold antialiased border border-[#4F4557] rounded-full p-1">
       <div
         className={`h-full rounded-full w-[25px] text-center cursor-pointer transition-all ${
           theme === "dark" && "bg-blue-500"

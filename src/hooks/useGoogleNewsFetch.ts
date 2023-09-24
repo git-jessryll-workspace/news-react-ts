@@ -1,5 +1,5 @@
-
-import datajson from "@/samplegoogledata.json";
+import { useQuery } from "react-query";
+import axios from "axios";
 export default function useGoogleNewsFetch() {
   const { VITE_GOOGLE_NEWS_API_KEY, VITE_GOOGLE_NEWS_API_HOST } = import.meta
     .env;
@@ -14,6 +14,13 @@ export default function useGoogleNewsFetch() {
       "X-RapidAPI-Host": VITE_GOOGLE_NEWS_API_HOST,
     },
   };
-  //   return useFetch({ config: options });
-  return { data: datajson };
+  const fetchAllGoogleNews = async () => {
+    const { data } = await axios(options);
+    return data;
+  };
+  return useQuery("google-news", fetchAllGoogleNews, {
+    enabled: true,
+    staleTime: Infinity,
+    retry: false,
+  });
 }

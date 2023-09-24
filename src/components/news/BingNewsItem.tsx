@@ -19,7 +19,7 @@ const BingNewsItem: React.FC<{ data: IBingNews }> = ({ data }) => {
       )}
         <ProviderSmall
           providerName={providerBy.name}
-          providerImageSrc={providerImage.thumbnail.contentUrl}
+          providerImageSrc={providerImage?.thumbnail.contentUrl}
         />
         <div>
           <a href={url}>

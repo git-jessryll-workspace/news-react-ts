@@ -1,6 +1,5 @@
 import axios from "axios";
 import { useQuery } from "react-query";
-
 export default function useBingNewsFetch() {
   const { VITE_BING_NEWS_API_KEY, VITE_BING_NEWS_API_HOST } = import.meta.env;
   const options = {
@@ -19,8 +18,12 @@ export default function useBingNewsFetch() {
     },
   };
   const fetchAllBingNews = async () => {
-    const {data} = await axios(options);
+    const { data } = await axios(options);
     return data;
-  }
-  return useQuery("bing-news", fetchAllBingNews);
+  };
+  return useQuery("bing-news", fetchAllBingNews, {
+    enabled: true,
+    staleTime: Infinity,
+    retry: false
+  });
 }
