@@ -19,12 +19,12 @@ const GoogleNewsItem: React.FC<{ data: IGoogleNews }> = ({ data }) => {
         <ProviderSmall providerName={publisher} />
         <div>
           <a href={url}>
-            <h1 className="text-lg font-bold text-gray-700">{name}</h1>
+            <h1 className="text-lg font-bold ">{name}</h1>
           </a>
-          <span className="text-xs font-semibold text-gray-500">
+          <span className="text-xs font-semibold ">
             {dateLong(datePublished)}
           </span>
-          <p>{description}</p>
+          <p className="mt-4 pr-4">{description}</p>
         </div>
       </div>
       {images?.thumbnail && (

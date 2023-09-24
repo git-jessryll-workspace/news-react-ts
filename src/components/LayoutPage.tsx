@@ -9,15 +9,27 @@ interface LayoutProps {
 const LayoutPage: React.FC<LayoutProps> = ({ children }) => {
   return (
     <div>
-      <header className="bg-white">
+      <header>
         <nav className="flex justify-between mx-auto pt-6 px-20 items-center">
-          <div>
-            <img src={Logo} className="h-14 w-14" />
-          </div>
-          <div className="flex items-center space-x-14">
-            <ToggleTheme/>
+          <div className="flex items-center space-x-3">
             <div>
-              <button className="bg-blue-600 text-white py-2 px-4 text-sm rounded-md font-semibold">
+              <img src={Logo} className="h-14 w-14" />
+            </div>
+            <div>
+              <h3
+                className="font-bold mt-4 text-2xl text-[#393646] dark:text-[#F4EEE0]"
+                style={{
+                  fontFamily: "'Poppins', sans-serif",
+                }}
+              >
+                News Coffee
+              </h3>
+            </div>
+          </div>
+          <div className="flex items-center space-x-14 pt-5">
+            <ToggleTheme />
+            <div>
+              <button className="bg-[#4F4557] text-[#F4EEE0] py-2 px-4 text-sm rounded-md font-semibold">
                 Sign in
               </button>
             </div>
@@ -25,7 +37,7 @@ const LayoutPage: React.FC<LayoutProps> = ({ children }) => {
         </nav>
       </header>
       <main className="flex justify-center mt-10">
-        <div className="w-1/2 p-3">{children}</div>
+        <div className="w-1/2 p-4 transition-all bg-[#F4EEE0] border border-[#4F4557] dark:bg-[#4F4557] rounded-xl text-[#4F4557] dark:text-[#F4EEE0]">{children}</div>
       </main>
     </div>
   );

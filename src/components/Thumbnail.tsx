@@ -10,7 +10,7 @@ const Thumbnail: React.FC<Props> = ({ imageSrc, altName }) => {
     <img
       src={imageSrc}
       alt={altName}
-      className="h-[150px] w-full object-cover rounded-lg border border-gray-100"
+      className="h-[150px] w-full object-cover rounded-lg border border-[#6D5D6E]"
     />
   );
 };

@@ -33,33 +33,35 @@ export default function NewsPage() {
 
   return (
     <LayoutPage>
-      <div className="text-center mb-3">
-        <h3
-          className="font-bold text-4xl text-gray-700"
-          style={{
-            fontFamily: "'Poppins', sans-serif",
-          }}
-        >
-          My News Coffee
-        </h3>
-      </div>
-      <div className="mb-4">
-        <input
-          className="border border-gray-300 p-3 w-full rounded-lg shadow-md"
-          placeholder="Search news..."
-        />
-      </div>
-      <div>
-        <h3 className="font-bold text-gray-500 text-sm">Top Headlines</h3>
-      </div>
-      <div className="space-y-2 divide-y">
-        {newsArticles.map((newsArticle: INewsArticle) => (
-          <NewsItem
-            key={newsArticle.id}
-            data={newsArticle.data}
-            type={newsArticle.type}
+      <div className="px-4">
+        <div className="text-center mb-3 pt-10">
+          <h3
+            className="font-bold text-4xl"
+            style={{
+              fontFamily: "'Poppins', sans-serif",
+            }}
+          >
+            My News Coffee
+          </h3>
+        </div>
+        <div className="mb-14">
+          <input
+            className="border border-[#4F4557] dark:border-gray-300 outline-none p-3 w-full rounded-lg shadow-md bg-[#F4EEE0] dark:bg-[#6D5D6E] text-[#4F4557] dark:text-[#F4EEE0] placeholder-[#4F4557] dark:placeholder-[#F4EEE0]"
+            placeholder="Search news..."
           />
-        ))}
+        </div>
+        <div className="pl-2">
+          <h3 className="font-bold text-sm">Top Headlines</h3>
+        </div>
+        <div className="space-y-2 divide-y divide-[#6D5D6E]">
+          {newsArticles.map((newsArticle: INewsArticle) => (
+            <NewsItem
+              key={newsArticle.id}
+              data={newsArticle.data}
+              type={newsArticle.type}
+            />
+          ))}
+        </div>
       </div>
     </LayoutPage>
   );
