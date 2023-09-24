@@ -1,5 +1,4 @@
 import React from "react";
-import ToggleTheme from "./ToggleTheme";
 import AppLogo from "./AppLogo";
 import MobileMenu from "./MobileMenu";
 
