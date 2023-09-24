@@ -1,4 +1,4 @@
 import LayoutPage from "./LayoutPage";
-import Thumbnail from "./Thumbnail";
+import ThumbnailImage from "./ThumbnailImage";
 
-export { LayoutPage, Thumbnail };
+export { LayoutPage, ThumbnailImage };

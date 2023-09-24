@@ -3,6 +3,7 @@ import { IGoogleNews } from "@/@types/google";
 
 export const dataBingNews = (item: IBingNews) => ({
   id: item.datePublished,
+  title: item.name,
   type: "bing",
   data: item,
   publishedAt: item.datePublished,
@@ -10,6 +11,7 @@ export const dataBingNews = (item: IBingNews) => ({
 
 export const dataGoogleNews = (item: IGoogleNews) => ({
   id: `${item.title}-google`,
+  title: item.title,
   type: "google",
   data: {
     ...item,

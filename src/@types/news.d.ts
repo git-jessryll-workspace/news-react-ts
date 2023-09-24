@@ -3,6 +3,7 @@ import { IGoogleNews } from "./google";
 
 export interface INewsArticle {
   id: string;
+  title: string;
   type: string;
   publishedAt: string;
   data: IBingNews | IGoogleNews;
