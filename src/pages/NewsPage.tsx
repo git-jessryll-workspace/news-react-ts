@@ -1,5 +1,5 @@
 import React from "react";
-import { LayoutPage } from "@/components";
+import { LayoutPage, SearchNotFound } from "@/components";
 import { AppContext } from "@/context/AppProvider";
 import { AppContextType, INewsArticle } from "@/@types/news";
 import { NewsItem } from "@/components/news";
@@ -88,6 +88,9 @@ export default function NewsPage() {
           </div>
         ) : (
           <div className="space-y-2 divide-y divide-[#6D5D6E]">
+            {
+              newsItems.length === 0 && <SearchNotFound />
+            }
             {newsItems.map((newsArticle: INewsArticle) => (
               <NewsItem
                 key={newsArticle.id}

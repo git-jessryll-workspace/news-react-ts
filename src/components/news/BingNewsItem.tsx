@@ -1,7 +1,6 @@
 import React from "react";
 import { dateLong } from "@/utils/date";
-import { ThumbnailImage } from "..";
-import ProviderSmall from "../ProviderSmall";
+import { ProviderSmall, ThumbnailImage } from "..";
 import { IBingNews } from "@/@types/bing";
 
 const BingNewsItem: React.FC<{ data: IBingNews }> = ({ data }) => {
@@ -12,11 +11,11 @@ const BingNewsItem: React.FC<{ data: IBingNews }> = ({ data }) => {
   return (
     <div className="flex space-x-2 p-3">
       <div className={`${image?.thumbnail ? "w-full md:w-[75%]" : "w-full"}`}>
-      {image?.thumbnail && (
-        <div className="flex items-center md:hidden">
-          <ThumbnailImage imageSrc={image.thumbnail.contentUrl} altName={name} />
-        </div>
-      )}
+        {image?.thumbnail && (
+          <div className="flex items-center md:hidden">
+            <ThumbnailImage imageSrc={image.thumbnail.contentUrl} altName={name} />
+          </div>
+        )}
         <ProviderSmall
           providerName={providerBy.name}
           providerImageSrc={providerImage?.thumbnail.contentUrl}

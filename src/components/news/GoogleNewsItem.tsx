@@ -1,7 +1,6 @@
 import React from "react";
 import { dateLong } from "@/utils/date";
-import { ThumbnailImage } from "..";
-import ProviderSmall from "../ProviderSmall";
+import { ProviderSmall, ThumbnailImage } from "..";
 import { IGoogleNews } from "@/@types/google";
 
 const GoogleNewsItem: React.FC<{ data: IGoogleNews }> = ({ data }) => {
