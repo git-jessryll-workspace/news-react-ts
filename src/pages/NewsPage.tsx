@@ -7,6 +7,7 @@ import { useSearchParams } from "react-router-dom";
 import { useBingNewsFetch, useGoogleNewsFetch } from "@/hooks";
 import bingData from "@/sample-data.json";
 import googleData from "@/samplegoogledata.json";
+import SearchNewsForm from "@/components/SearchNewsForm";
 
 export default function NewsPage() {
   const { newsArticles, updatedArticles } = React.useContext(
@@ -40,6 +41,16 @@ export default function NewsPage() {
     item.title.toLowerCase().includes(q.toLowerCase())
   );
 
+  const searchUpdate = (search: string) => {
+    setSearchParams(
+      (prev) => {
+        prev.set("q", search);
+        return prev;
+      },
+      { replace: true }
+    )
+  };
+
   return (
     <LayoutPage>
       <div className="px-0 md:px-4">
@@ -53,22 +64,7 @@ export default function NewsPage() {
             My News Coffee
           </h3>
         </div>
-        <div className="mb-14">
-          <input
-            className="border border-[#4F4557] dark:border-gray-300 outline-none p-3 w-full rounded-lg shadow-md bg-[#F4EEE0] dark:bg-[#6D5D6E] text-[#4F4557] dark:text-[#F4EEE0] placeholder-[#4F4557] dark:placeholder-[#F4EEE0]"
-            placeholder="Search news..."
-            value={q}
-            onChange={(e) =>
-              setSearchParams(
-                (prev) => {
-                  prev.set("q", e.target.value);
-                  return prev;
-                },
-                { replace: true }
-              )
-            }
-          />
-        </div>
+        <SearchNewsForm searchUpdate={searchUpdate} search={q}/>
         <div className="pl-2">
           <h3 className="font-bold text-sm">Top Headlines</h3>
         </div>
