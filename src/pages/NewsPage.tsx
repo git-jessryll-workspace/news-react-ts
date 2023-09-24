@@ -1,14 +1,12 @@
 import React from "react";
-import { LayoutPage, SearchNotFound } from "@/components";
+import { LayoutPage, PleaseWaitComponent, SearchNotFound } from "@/components";
 import { AppContext } from "@/context/AppProvider";
 import { AppContextType, INewsArticle } from "@/@types/news";
 import { NewsItem } from "@/components/news";
-import useBingNewsFetch from "@/hooks/useBingNewsFetch";
-import useGoogleNewsFetch from "@/hooks/useGoogleNewsFetch";
 import { useSearchParams } from "react-router-dom";
+import { useBingNewsFetch, useGoogleNewsFetch } from "@/hooks";
 import bingData from "@/sample-data.json";
 import googleData from "@/samplegoogledata.json";
-import { ClockLoader } from "react-spinners";
 
 export default function NewsPage() {
   const { newsArticles, updatedArticles } = React.useContext(
@@ -75,22 +73,10 @@ export default function NewsPage() {
           <h3 className="font-bold text-sm">Top Headlines</h3>
         </div>
         {statusBing === "loading" && statusGoogle === "loading" ? (
-          <div className="flex h-[300px] justify-center items-center">
-            <div className="space-y-4">
-              <div className="flex justify-center">
-                <ClockLoader color="#F4EEE0" />
-              </div>
-              <div className="text-center">
-                <h1 className="text-3xl font-bold">Loading...</h1>
-                <h3 className="text-lg">Please wait</h3>
-              </div>
-            </div>
-          </div>
+          <PleaseWaitComponent />
         ) : (
           <div className="space-y-2 divide-y divide-[#6D5D6E]">
-            {
-              newsItems.length === 0 && <SearchNotFound />
-            }
+            {newsItems.length === 0 && <SearchNotFound />}
             {newsItems.map((newsArticle: INewsArticle) => (
               <NewsItem
                 key={newsArticle.id}
