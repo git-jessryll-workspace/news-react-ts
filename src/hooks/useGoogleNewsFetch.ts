@@ -1,5 +1,6 @@
 import { useQuery } from "react-query";
 import axios from "axios";
+
 export default function useGoogleNewsFetch() {
   const { VITE_GOOGLE_NEWS_API_KEY, VITE_GOOGLE_NEWS_API_HOST } = import.meta
     .env;

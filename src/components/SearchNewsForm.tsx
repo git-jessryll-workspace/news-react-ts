@@ -7,7 +7,7 @@ type Props = {
 
 const SearchNewsForm: React.FC<Props> = ({ searchUpdate, search }) => {
   const handleChange = (
-    event: React.ChangeEvent<HTMLInputElement & EventTarget>
+    event: React.ChangeEvent<HTMLInputElement & EventTarget>,
   ) => searchUpdate(event.target.value);
   return (
     <div className="mb-14">

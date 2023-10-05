@@ -1,18 +1,20 @@
-import { AppContextType, INewsArticle } from "@/@types/news";
 import React from "react";
+import { AppContextType, INewsArticle } from "@/@types/news";
 import { dataBingNews, dataGoogleNews } from "@/utils/datamap";
 import { IBingNews } from "@/@types/bing";
 import { IGoogleNews } from "@/@types/google";
 
 export const AppContext = React.createContext<AppContextType | null>(null);
-
-const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
+type Props = {
+  children: React.ReactNode;
+};
+const AppProvider: React.FC<Props> = ({ children }) => {
   const [newsArticles, setNewsArticles] = React.useState<INewsArticle[]>([]);
   const [theme, setTheme] = React.useState<string>("dark");
-  const colorTheme = theme === "dark" ? "light" : "dark";
+  const colorTheme: "dark" | "light" = theme === "dark" ? "light" : "dark";
 
-  React.useEffect(() => {
-    const root = window.document.documentElement;
+  React.useEffect((): void => {
+    const root: HTMLElement = window.document.documentElement;
     root.classList.remove(colorTheme);
     root.classList.add(theme);
     localStorage.setItem("theme", theme);
@@ -20,19 +22,18 @@ const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
 
   const updatedArticles = (
     newList: IBingNews[] | IGoogleNews[],
-    type: string = "bing"
-  ) => {
+    type: string = "bing",
+  ): void => {
     setNewsArticles((prev: INewsArticle[]) => {
-      const list = [
+      return [
         ...prev,
-        ...newList.map((item: any) => {
+        ...newList.map((item: IBingNews | IGoogleNews) => {
           if (type === "bing") {
-            return dataBingNews(item);
+            return dataBingNews(item as IBingNews);
           }
-          return dataGoogleNews(item);
+          return dataGoogleNews(item as IGoogleNews);
         }),
       ];
-      return list;
     });
   };
 
@@ -46,13 +47,13 @@ const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
           ...new Set(
             newsArticles.sort(function (
               item1: INewsArticle,
-              item2: INewsArticle
+              item2: INewsArticle,
             ) {
               return (
                 new Date(item2.publishedAt).getTime() -
                 new Date(item1.publishedAt).getTime()
               );
-            })
+            }),
           ),
         ],
         theme,

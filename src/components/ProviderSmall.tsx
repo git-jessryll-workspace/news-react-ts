@@ -13,6 +13,7 @@ const ProviderSmall: React.FC<Props> = ({ providerName, providerImageSrc }) => {
           <img
             src={providerImageSrc}
             className="h-[32px] w-[32px] object-cover"
+            alt={providerName}
           />
         </div>
       )}

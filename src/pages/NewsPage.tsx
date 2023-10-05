@@ -9,9 +9,9 @@ import bingData from "@/sample-data.json";
 import googleData from "@/samplegoogledata.json";
 import SearchNewsForm from "@/components/SearchNewsForm";
 
-export default function NewsPage() {
+export default function NewsPage(): JSX.Element {
   const { newsArticles, updatedArticles } = React.useContext(
-    AppContext
+    AppContext,
   ) as AppContextType;
   const [searchParams, setSearchParams] = useSearchParams({ q: "" });
   const q: string | null | undefined = searchParams.get("q") ?? "";
@@ -37,18 +37,18 @@ export default function NewsPage() {
     }
   }, [statusGoogle]);
 
-  const newsItems = newsArticles.filter((item) =>
-    item.title.toLowerCase().includes(q.toLowerCase())
+  const newsItems: INewsArticle[] = newsArticles.filter((item: INewsArticle) =>
+    item.title.toLowerCase().includes(q.toLowerCase()),
   );
 
   const searchUpdate = (search: string) => {
     setSearchParams(
-      (prev) => {
+      (prev: URLSearchParams) => {
         prev.set("q", search);
         return prev;
       },
-      { replace: true }
-    )
+      { replace: true },
+    );
   };
 
   return (
@@ -64,7 +64,7 @@ export default function NewsPage() {
             My News Coffee
           </h3>
         </div>
-        <SearchNewsForm searchUpdate={searchUpdate} search={q}/>
+        <SearchNewsForm searchUpdate={searchUpdate} search={q} />
         <div className="pl-2">
           <h3 className="font-bold text-sm">Top Headlines</h3>
         </div>
